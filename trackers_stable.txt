@@ -61,9 +61,9 @@ http://tracker.mywaifu.best:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 http://tracker1.itzmx.com:8080/announce
-udp://tk1.trackerservers.com:8080/announce
 udp://t.overflow.biz:6969/announce
 udp://new-line.net:6969/announce
+udp://tk1.trackerservers.com:8080/announce
 udp://evan.im:6969/announce
 udp://6.pocketnet.app:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -85,5 +85,4 @@ udp://open.dstud.io:6969/announce
 udp://tracker.t-rb.org:6969/announce
 https://tracker.gcrreen.xyz:443/announce
 udp://tracker.cyberia.is:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://ryjer.com:6969/announce
