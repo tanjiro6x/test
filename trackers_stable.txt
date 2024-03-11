@@ -77,6 +77,5 @@ https://tracker.gcrreen.xyz:443/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.filemail.com:6969/announce
-udp://black-bird.ynh.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://pirate.t-1.org:1337/announce
