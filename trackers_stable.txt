@@ -55,10 +55,10 @@ https://tracker.lilithraws.org:443/announce
 https://shahidrazi.online:443/announce
 udp://new-line.net:6969/announce
 udp://tamas3.ynh.fr:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.therarbg.to:6969/announce
 https://track3r.site:443/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://1c.premierzal.ru:6969/announce
@@ -76,9 +76,9 @@ udp://pirate.t-1.org:1337/announce
 https://tracker.gcrreen.xyz:443/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.filemail.com:6969/announce
+udp://opentracker.i2p.rocks:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker.torrentuje.me:2710/announce
 udp://tracker.cyberia.is:6969/announce
-udp://opentracker.i2p.rocks:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://bt2.archive.org:6969/announce
