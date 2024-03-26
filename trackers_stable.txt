@@ -26,10 +26,10 @@ udp://moonburrow.club:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 http://open.acgnxtracker.com:80/announce
-https://t1.hloli.org:443/announce
 udp://tracker.therarbg.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://explodie.org:6969/announce
+https://t1.hloli.org:443/announce
 udp://opentracker.io:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
