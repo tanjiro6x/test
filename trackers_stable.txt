@@ -42,8 +42,8 @@ udp://epider.me:6969/announce
 udp://opentracker.io:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker2.dler.com:80/announce
-udp://ttk2.nbaonlineservice.com:6969/announce
 https://tracker.lilithraws.org:443/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 udp://amigacity.xyz:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
@@ -75,9 +75,9 @@ udp://seedpeer.net:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://1c.premierzal.ru:6969/announce
 http://open.acgtracker.com:1096/announce
+udp://tracker.filemail.com:6969/announce
 udp://jutone.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
-udp://tracker.filemail.com:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://open.dstud.io:6969/announce
 https://bt.ptlsp.com:443/announce
