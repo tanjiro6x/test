@@ -73,12 +73,12 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://new-line.net:6969/announce
 udp://seedpeer.net:6969/announce
 https://tracker.loligirl.cn:443/announce
+udp://tracker.cyberia.is:6969/announce
 udp://1c.premierzal.ru:6969/announce
 http://tr.kxmp.cf:80/announce
-udp://tracker.cyberia.is:6969/announce
 http://open.acgtracker.com:1096/announce
-udp://jutone.com:6969/announce
 udp://tracker.filemail.com:6969/announce
+udp://jutone.com:6969/announce
 udp://open.dstud.io:6969/announce
 https://bt.ptlsp.com:443/announce
 udp://tk1.trackerservers.com:8080/announce
