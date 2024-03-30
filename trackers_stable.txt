@@ -43,8 +43,8 @@ udp://tracker2.dler.com:80/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.lilithraws.org:443/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-udp://amigacity.xyz:6969/announce
 udp://retracker.lanta.me:2710/announce
+udp://amigacity.xyz:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://www.torrent.eu.org:451/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -67,8 +67,8 @@ https://track3r.site:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://movies.zsw.ca:6969/announce
-udp://seedpeer.net:6969/announce
 udp://1c.premierzal.ru:6969/announce
+udp://seedpeer.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://new-line.net:6969/announce
 http://tr.kxmp.cf:80/announce
