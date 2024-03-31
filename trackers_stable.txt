@@ -15,13 +15,13 @@ udp://tracker.picotorrent.one:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://aarsen.me:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.moeking.me:6969/announce
 http://tinfoil.space:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
 http://tracker.gbitt.info:80/announce
-udp://aarsen.me:6969/announce
 udp://open.demonii.com:1337/announce
 https://www.peckservers.com:9443/announce
 udp://oh.fuuuuuck.com:6969/announce
@@ -59,10 +59,10 @@ https://tracker.lilithraws.org:443/announce
 http://tracker.bt4g.com:2095/announce
 udp://p2p.publictracker.xyz:6969/announce
 https://tracker.cloudit.top:443/announce
-https://tr.qfruiti.in:443/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://bt2.archive.org:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
+https://tr.qfruiti.in:443/announce
 https://tr.qfruiti.com:443/announce
 https://track3r.site:443/announce
 udp://tamas3.ynh.fr:6969/announce
