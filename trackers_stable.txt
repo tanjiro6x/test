@@ -81,5 +81,5 @@ udp://open.dstud.io:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.ipfsscan.io:443/announce
-udp://black-bird.ynh.fr:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://black-bird.ynh.fr:6969/announce
