@@ -730,7 +730,6 @@ https://tr.highstar.shop:443/announce
 https://tr.kxmp.cf:80/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com:443/announce
-https://tr.qfruiti.in:443/announce
 https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
