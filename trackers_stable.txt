@@ -37,11 +37,11 @@ udp://martin-gebhardt.eu:25/announce
 udp://epider.me:6969/announce
 udp://moonburrow.club:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://amigacity.xyz:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://bt.okmp3.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
-udp://amigacity.xyz:6969/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker.srv00.com:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
