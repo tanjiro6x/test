@@ -33,9 +33,9 @@ udp://martin-gebhardt.eu:25/announce
 http://open.acgnxtracker.com:80/announce
 udp://tracker2.dler.com:80/announce
 udp://epider.me:6969/announce
+udp://moonburrow.club:6969/announce
 udp://opentracker.io:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
-udp://moonburrow.club:6969/announce
 https://t1.hloli.org:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://amigacity.xyz:6969/announce
