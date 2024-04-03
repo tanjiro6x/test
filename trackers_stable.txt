@@ -30,13 +30,13 @@ udp://odd-hd.fr:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://martin-gebhardt.eu:25/announce
 http://open.acgnxtracker.com:80/announce
-https://t1.hloli.org:443/announce
 udp://opentracker.io:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://epider.me:6969/announce
 udp://moonburrow.club:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+https://t1.hloli.org:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -76,8 +76,8 @@ udp://tracker.cyberia.is:6969/announce
 http://tracker1.itzmx.com:8080/announce
 https://tracker.loligirl.cn:443/announce
 udp://tracker.filemail.com:6969/announce
-http://open.acgtracker.com:1096/announce
 udp://jutone.com:6969/announce
+http://open.acgtracker.com:1096/announce
 udp://tracker.vds.nz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
