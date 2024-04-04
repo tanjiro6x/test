@@ -45,8 +45,8 @@ udp://tracker.srv00.com:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
 udp://retracker.lanta.me:2710/announce
-udp://tracker.tryhackx.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -64,9 +64,9 @@ https://tr.qfruiti.com:443/announce
 udp://bt1.archive.org:6969/announce
 https://tracker.cloudit.top:443/announce
 https://track3r.site:443/announce
-udp://btt.service.gongt.me:43079/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tamas3.ynh.fr:6969/announce
+udp://btt.service.gongt.me:43079/announce
 udp://bt2.archive.org:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -82,4 +82,3 @@ udp://black-bird.ynh.fr:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.ipfsscan.io:443/announce
-udp://ryjer.com:6969/announce
