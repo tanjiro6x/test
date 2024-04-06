@@ -69,8 +69,8 @@ http://tracker.mywaifu.best:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://new-line.net:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 https://tracker.loligirl.cn:443/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://jutone.com:6969/announce
 udp://black-bird.ynh.fr:6969/announce
@@ -82,4 +82,3 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.therarbg.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.ipfsscan.io:443/announce
-udp://1c.premierzal.ru:6969/announce
