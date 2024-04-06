@@ -36,7 +36,6 @@ https://track3r.site:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.gcrreen.xyz:443/announce
-https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
@@ -48,6 +47,7 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 https://www.peckservers.com:9443/announce
 https://yolo.liberbear.com:443/announce
+udp://1c.premierzal.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://aarsen.me:6969/announce
 udp://aegir.sexy:6969/announce
@@ -80,12 +80,10 @@ udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
-udp://open.free-tracker.ga:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.u-p.pw:6969/announce
 udp://open.xxtor.com:3074/announce
-udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://public.demonoid.ch:6969/announce
@@ -104,7 +102,7 @@ udp://torrents.artixlinux.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.anima.nz:6969/announce
-udp://tracker.auctor.tv:6969/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
@@ -122,7 +120,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
