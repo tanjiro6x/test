@@ -1,7 +1,6 @@
 http://1337.abcvg.info:80/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-http://bjlt.zhuqiy.eu.org:6666/announce
 http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://ch3oh.ru:6969/announce
@@ -69,7 +68,6 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
-udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://isk.richardsw.club:6969/announce
@@ -101,6 +99,7 @@ udp://ryjer.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://su-data.com:6969/announce
 udp://tamas3.ynh.fr:6969/announce
+udp://tcq.zhuqiy.eu.org:25091/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
