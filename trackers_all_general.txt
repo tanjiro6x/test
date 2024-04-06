@@ -1,6 +1,7 @@
 http://1337.abcvg.info:80/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://bjlt.zhuqiy.eu.org:6666/announce
 http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://ch3oh.ru:6969/announce
