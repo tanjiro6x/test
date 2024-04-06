@@ -1,3 +1,4 @@
+udp://tracker.opentrackr.org:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://exodus.desync.com:6969/announce
 http://t.acg.rip:6699/announce
@@ -15,7 +16,6 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
-udp://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -36,12 +36,12 @@ udp://moonburrow.club:6969/announce
 https://t1.hloli.org:443/announce
 udp://opentracker.io:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
-http://tinfoil.space:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://odd-hd.fr:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://bt.okmp3.ru:2710/announce
+http://tinfoil.space:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
@@ -71,8 +71,8 @@ udp://bt2.archive.org:6969/announce
 udp://new-line.net:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-http://tracker1.itzmx.com:8080/announce
 udp://jutone.com:6969/announce
+http://tracker1.itzmx.com:8080/announce
 udp://black-bird.ynh.fr:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.vds.nz:6969/announce
