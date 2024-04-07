@@ -67,7 +67,6 @@ https://track3r.site:443/announce
 https://tr.qfruiti.com:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tamas3.ynh.fr:6969/announce
-http://bjlt.zhuqiy.eu.org:6666/announce
 udp://bt2.archive.org:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://new-line.net:6969/announce
@@ -78,8 +77,9 @@ http://open.acgtracker.com:1096/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tracker.vds.nz:6969/announce
 http://tracker1.itzmx.com:8080/announce
-udp://tracker.filemail.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.filemail.com:6969/announce
+udp://run.publictracker.xyz:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://run.publictracker.xyz:6969/announce
+udp://free.publictracker.xyz:6969/announce
