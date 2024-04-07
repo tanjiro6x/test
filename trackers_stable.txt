@@ -14,7 +14,6 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
-http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://explodie.org:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -83,4 +82,5 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://run.publictracker.xyz:6969/announce
 http://tinfoil.space:6969/announce
