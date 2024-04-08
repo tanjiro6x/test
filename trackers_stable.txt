@@ -75,11 +75,11 @@ udp://tamas3.ynh.fr:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://new-line.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://jutone.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://jutone.com:6969/announce
 http://open.acgtracker.com:1096/announce
-udp://tracker.vds.nz:6969/announce
 udp://public.publictracker.xyz:6969/announce
+udp://tracker.vds.nz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tracker.filemail.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
