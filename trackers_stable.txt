@@ -49,10 +49,10 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker.lanta.me:2710/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://run.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://public.demonoid.ch:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-udp://run.publictracker.xyz:6969/announce
 http://tr.kxmp.cf:80/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://free.publictracker.xyz:6969/announce
@@ -65,11 +65,11 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://seedpeer.net:6969/announce
 https://tracker.lilithraws.org:443/announce
 udp://bt1.archive.org:6969/announce
+udp://open.publictracker.xyz:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
 http://tracker.mywaifu.best:6969/announce
 https://tr.qfruiti.com:443/announce
 https://track3r.site:443/announce
-udp://open.publictracker.xyz:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
@@ -85,5 +85,6 @@ udp://tracker.filemail.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tracker.cyberia.is:6969/announce
 https://tracker.ipfsscan.io:443/announce
-udp://tk1.trackerservers.com:8080/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://tk1.trackerservers.com:8080/announce
+udp://public.publictracker.xyz:6969/announce
