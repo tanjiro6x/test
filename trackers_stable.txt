@@ -61,8 +61,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://tr.kxmp.cf:80/announce
 udp://tracker.therarbg.to:6969/announce
-udp://seedpeer.net:6969/announce
 https://shahidrazi.online:443/announce
+udp://seedpeer.net:6969/announce
 udp://bt1.archive.org:6969/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.t-rb.org:6969/announce
@@ -87,4 +87,3 @@ http://tracker1.itzmx.com:8080/announce
 udp://jutone.com:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://btt.service.gongt.me:43079/announce
