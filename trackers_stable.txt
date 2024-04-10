@@ -39,11 +39,11 @@ http://open.acgnxtracker.com:80/announce
 udp://moonburrow.club:6969/announce
 https://t1.hloli.org:443/announce
 https://www.peckservers.com:9443/announce
+udp://opentracker.io:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://tracker2.dler.com:80/announce
-udp://opentracker.io:6969/announce
 udp://odd-hd.fr:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://public.demonoid.ch:6969/announce
@@ -86,5 +86,5 @@ http://tracker1.itzmx.com:8080/announce
 udp://tracker.cyberia.is:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://run-2.publictracker.xyz:6969/announce
 udp://btt.service.gongt.me:43079/announce
