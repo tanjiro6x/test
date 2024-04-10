@@ -12,6 +12,7 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker.jamesthebard.net:6969/announce
+https://tracker.gcrreen.xyz:443/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://explodie.org:6969/announce
@@ -33,7 +34,6 @@ udp://epider.me:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://bvarf.tracker.sh:2086/announce
-https://tracker.gcrreen.xyz:443/announce
 udp://tracker.opentrackr.org:1337/announce
 http://open.acgnxtracker.com:80/announce
 udp://moonburrow.club:6969/announce
@@ -84,7 +84,7 @@ http://open.acgtracker.com:1096/announce
 udp://tracker.cyberia.is:6969/announce
 udp://jutone.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 https://tracker.ipfsscan.io:443/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://btt.service.gongt.me:43079/announce
