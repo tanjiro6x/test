@@ -16,7 +16,6 @@ udp://tracker.jamesthebard.net:6969/announce
 https://tracker.gcrreen.xyz:443/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://open.demonoid.ch:6969/announce
-https://trackers.ptlsp.com:443/announce
 udp://explodie.org:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
