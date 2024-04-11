@@ -83,9 +83,9 @@ udp://black-bird.ynh.fr:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.cyberia.is:6969/announce
-http://tracker1.itzmx.com:8080/announce
 http://p2p.0g.cx:6969/announce
+http://tracker1.itzmx.com:8080/announce
 udp://jutone.com:6969/announce
+https://trackers.ptlsp.com:443/announce
 https://tracker.ipfsscan.io:443/announce
 udp://tk1.trackerservers.com:8080/announce
-https://trackers.ptlsp.com:443/announce
