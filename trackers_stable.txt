@@ -6,7 +6,6 @@ http://bt.okmp3.ru:2710/announce
 udp://bubu.mapfactor.com:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://run.publictracker.xyz:6969/announce
-udp://open.demonii.com:1337/announce
 https://tracker.tamersunion.org:443/announce
 https://trackers.mlsub.net:443/announce
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -19,6 +18,7 @@ udp://tracker.picotorrent.one:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker-cn.zhuqiy.eu.org:6969/announce
+udp://u.peer-exchange.download:6969/announce
 udp://explodie.org:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://exodus.desync.com:6969/announce
@@ -28,6 +28,7 @@ udp://free.publictracker.xyz:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://aarsen.me:6969/announce
 udp://epider.me:6969/announce
+udp://open.demonii.com:1337/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.0x7c0.com:6969/announce
@@ -48,18 +49,18 @@ https://www.peckservers.com:9443/announce
 udp://www.torrent.eu.org:451/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://ns1.monolithindustries.com:6969/announce
-https://shahidrazi.online:443/announce
+udp://odd-hd.fr:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://open.publictracker.xyz:6969/announce
 udp://tracker.srv00.com:6969/announce
 http://tracker.k.vu:6969/announce
-udp://odd-hd.fr:6969/announce
-https://track3r.site:443/announce
+https://shahidrazi.online:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://retracker.lanta.me:2710/announce
+https://track3r.site:443/announce
 udp://public.publictracker.xyz:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -80,8 +81,8 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://bt2.archive.org:6969/announce
-udp://tracker.vds.nz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
+udp://tracker.vds.nz:6969/announce
 udp://new-line.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://black-bird.ynh.fr:6969/announce
