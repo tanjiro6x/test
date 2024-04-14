@@ -112,6 +112,7 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.anima.nz:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
