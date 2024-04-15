@@ -1,3 +1,4 @@
+udp://explodie.org:6969/announce
 udp://open.stealth.si:80/announce
 http://t.acg.rip:6699/announce
 http://tracker.files.fm:6969/announce
@@ -22,7 +23,6 @@ udp://amigacity.xyz:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.darkness.services:6969/announce
 https://torrent.opiums.eu:443/announce
-udp://explodie.org:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://exodus.desync.com:6969/announce
 http://tracker.gbitt.info:80/announce
@@ -57,15 +57,15 @@ udp://retracker.lanta.me:2710/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://track3r.site:443/announce
-udp://seedpeer.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://seedpeer.net:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.lilithraws.org:443/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://tracker.therarbg.to:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 http://tr.kxmp.cf:80/announce
+udp://tracker.torrust-demo.com:6969/announce
 http://tracker.k.vu:6969/announce
 https://tr.qfruiti.com:443/announce
 udp://bt1.archive.org:6969/announce
@@ -80,8 +80,8 @@ https://t.peer-exchange.download:443/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://black-bird.ynh.fr:6969/announce
-udp://new-line.net:6969/announce
 udp://jutone.com:6969/announce
+udp://new-line.net:6969/announce
 udp://tracker.cyberia.is:6969/announce
 http://p2p.0g.cx:6969/announce
 http://open.acgtracker.com:1096/announce
