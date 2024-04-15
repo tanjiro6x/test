@@ -54,7 +54,6 @@ https://www.peckservers.com:9443/announce
 https://yolo.liberbear.com:443/announce
 udp://1c.premierzal.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://aarsen.me:6969/announce
 udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
