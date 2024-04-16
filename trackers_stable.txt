@@ -77,8 +77,8 @@ https://tracker.cloudit.top:443/announce
 udp://tracker.vds.nz:6969/announce
 udp://new-line.net:6969/announce
 udp://jutone.com:6969/announce
-udp://open.publictracker.xyz:6969/announce
 https://torrent.opiums.eu:443/announce
+udp://open.publictracker.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tracker.filemail.com:6969/announce
