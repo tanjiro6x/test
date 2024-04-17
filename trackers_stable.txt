@@ -46,11 +46,11 @@ https://www.peckservers.com:9443/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker1.520.jp:443/announce
+udp://retracker.lanta.me:2710/announce
 udp://tracker.opentrackr.org:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker2.dler.com:80/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-udp://retracker.lanta.me:2710/announce
 udp://retracker.hotplug.ru:2710/announce
 http://t.acg.rip:6699/announce
 udp://run-2.publictracker.xyz:6969/announce
