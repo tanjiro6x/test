@@ -23,6 +23,7 @@ udp://exodus.desync.com:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.bt4g.com:2095/announce
 udp://epider.me:6969/announce
+udp://moonburrow.club:6969/announce
 udp://opentracker.io:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.qu.ax:6969/announce
@@ -30,7 +31,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://public.demonoid.ch:6969/announce
-udp://moonburrow.club:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
@@ -60,10 +60,10 @@ http://tracker.mywaifu.best:6969/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.publictracker.xyz:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-udp://tracker.therarbg.to:6969/announce
 http://tr.kxmp.cf:80/announce
-udp://bt2.archive.org:6969/announce
+udp://tracker.therarbg.to:6969/announce
 https://t.peer-exchange.download:443/announce
+udp://bt2.archive.org:6969/announce
 https://tr.qfruiti.com:443/announce
 http://tracker.k.vu:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -88,8 +88,8 @@ http://open.acgtracker.com:1096/announce
 http://tracker1.itzmx.com:8080/announce
 https://tracker.ipfsscan.io:443/announce
 udp://1c.premierzal.ru:6969/announce
-udp://inferno.demonoid.is:3391/announce
 udp://open.xxtor.com:3074/announce
+udp://inferno.demonoid.is:3391/announce
+udp://tracker.edkj.club:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 https://t1.hloli.org:443/announce
-udp://tracker.edkj.club:6969/announce
