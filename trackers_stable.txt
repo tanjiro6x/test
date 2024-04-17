@@ -1,5 +1,4 @@
 udp://explodie.org:6969/announce
-udp://open.stealth.si:80/announce
 http://tracker.files.fm:6969/announce
 http://open.acgnxtracker.com:80/announce
 http://bt.okmp3.ru:2710/announce
@@ -18,6 +17,7 @@ udp://tracker.picotorrent.one:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.darkness.services:6969/announce
+udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 udp://exodus.desync.com:6969/announce
 http://tracker.gbitt.info:80/announce
@@ -41,12 +41,12 @@ https://tracker.gcrreen.xyz:443/announce
 udp://u.peer-exchange.download:6969/announce
 udp://open.demonii.com:1337/announce
 udp://odd-hd.fr:6969/announce
-udp://tracker2.dler.com:80/announce
 udp://tracker.srv00.com:6969/announce
 https://www.peckservers.com:9443/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
+udp://tracker2.dler.com:80/announce
 https://tracker1.520.jp:443/announce
 udp://tracker.opentrackr.org:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -64,9 +64,9 @@ udp://tracker.therarbg.to:6969/announce
 http://tr.kxmp.cf:80/announce
 udp://bt2.archive.org:6969/announce
 https://t.peer-exchange.download:443/announce
-udp://tracker.torrust-demo.com:6969/announce
 https://tr.qfruiti.com:443/announce
 http://tracker.k.vu:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 https://shahidrazi.online:443/announce
@@ -76,14 +76,14 @@ https://tracker.cloudit.top:443/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://tracker.vds.nz:6969/announce
 udp://new-line.net:6969/announce
-http://t1.aag.moe:17715/announce
 https://trackers.ptlsp.com:443/announce
+http://t1.aag.moe:17715/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://jutone.com:6969/announce
-http://p2p.0g.cx:6969/announce
 udp://black-bird.ynh.fr:6969/announce
+http://p2p.0g.cx:6969/announce
 http://open.acgtracker.com:1096/announce
 http://tracker1.itzmx.com:8080/announce
 https://tracker.ipfsscan.io:443/announce
