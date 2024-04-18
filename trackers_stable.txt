@@ -44,11 +44,11 @@ udp://tracker.fnix.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.srv00.com:6969/announce
 https://www.peckservers.com:9443/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker2.dler.com:80/announce
 https://tracker1.520.jp:443/announce
-udp://ttk2.nbaonlineservice.com:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://run-2.publictracker.xyz:6969/announce
@@ -87,8 +87,8 @@ http://p2p.0g.cx:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 http://open.acgtracker.com:1096/announce
 http://tracker1.itzmx.com:8080/announce
-udp://1c.premierzal.ru:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://1c.premierzal.ru:6969/announce
 udp://open.xxtor.com:3074/announce
 udp://tracker.edkj.club:6969/announce
 udp://tk1.trackerservers.com:8080/announce
