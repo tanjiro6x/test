@@ -57,9 +57,9 @@ https://track3r.site:443/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://bt1.archive.org:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.lilithraws.org:443/announce
-udp://tracker.publictracker.xyz:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://tr.kxmp.cf:80/announce
 https://t.peer-exchange.download:443/announce
@@ -78,8 +78,8 @@ udp://tracker.vds.nz:6969/announce
 udp://new-line.net:6969/announce
 https://trackers.ptlsp.com:443/announce
 http://t1.aag.moe:17715/announce
-udp://tracker.filemail.com:6969/announce
 https://tracker.ipfsscan.io:443/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://jutone.com:6969/announce
@@ -87,8 +87,8 @@ http://p2p.0g.cx:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://open.acgtracker.com:1096/announce
-udp://open.xxtor.com:3074/announce
 udp://1c.premierzal.ru:6969/announce
+udp://open.xxtor.com:3074/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.edkj.club:6969/announce
 udp://tk1.trackerservers.com:8080/announce
