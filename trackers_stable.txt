@@ -89,7 +89,7 @@ http://tracker1.itzmx.com:8080/announce
 https://tracker.ipfsscan.io:443/announce
 udp://1c.premierzal.ru:6969/announce
 udp://open.xxtor.com:3074/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.edkj.club:6969/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 https://t1.hloli.org:443/announce
