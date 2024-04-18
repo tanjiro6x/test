@@ -92,5 +92,4 @@ udp://open.xxtor.com:3074/announce
 udp://tracker.edkj.club:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 https://t1.hloli.org:443/announce
-udp://inferno.demonoid.is:3391/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
