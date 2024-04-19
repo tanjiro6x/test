@@ -78,8 +78,8 @@ udp://tracker.vds.nz:6969/announce
 http://t1.aag.moe:17715/announce
 udp://new-line.net:6969/announce
 https://tracker.ipfsscan.io:443/announce
-udp://tracker.cyberia.is:6969/announce
 https://trackers.ptlsp.com:443/announce
+udp://tracker.cyberia.is:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://jutone.com:6969/announce
