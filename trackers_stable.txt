@@ -22,7 +22,6 @@ udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 udp://exodus.desync.com:6969/announce
 http://tracker.gbitt.info:80/announce
-http://tracker.bt4g.com:2095/announce
 udp://epider.me:6969/announce
 udp://moonburrow.club:6969/announce
 udp://opentracker.io:6969/announce
@@ -32,6 +31,7 @@ udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
+http://tracker.bt4g.com:2095/announce
 udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://bvarf.tracker.sh:2086/announce
