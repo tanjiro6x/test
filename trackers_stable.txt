@@ -59,10 +59,10 @@ http://tr.kxmp.cf:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.lilithraws.org:443/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://t.peer-exchange.download:443/announce
 http://t.acg.rip:6699/announce
 udp://bt1.archive.org:6969/announce
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://bt2.archive.org:6969/announce
 udp://tracker.therarbg.to:6969/announce
 https://tr.qfruiti.com:443/announce
