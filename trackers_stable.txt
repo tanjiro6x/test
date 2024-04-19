@@ -36,13 +36,13 @@ udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://ipv6.rer.lol:6969/announce
-https://tracker.gcrreen.xyz:443/announce
 udp://open.demonii.com:1337/announce
 https://www.peckservers.com:9443/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://www.torrent.eu.org:451/announce
+https://tracker.gcrreen.xyz:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://tracker.opentrackr.org:1337/announce
