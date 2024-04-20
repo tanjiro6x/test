@@ -81,7 +81,6 @@ https://trackers.ptlsp.com:443/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://jutone.com:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 http://p2p.0g.cx:6969/announce
@@ -93,3 +92,4 @@ udp://1c.premierzal.ru:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 https://t1.hloli.org:443/announce
+udp://tracker.torrust-demo.com:6969/announce
