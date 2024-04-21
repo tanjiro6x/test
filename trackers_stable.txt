@@ -54,8 +54,8 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 https://track3r.site:443/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.vds.nz:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 udp://bt2.archive.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.lilithraws.org:443/announce
