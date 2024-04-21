@@ -49,12 +49,12 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker1.520.jp:443/announce
 udp://retracker.lanta.me:2710/announce
+udp://tracker.vds.nz:6969/announce
+https://track3r.site:443/announce
 udp://tracker2.dler.com:80/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
-https://track3r.site:443/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker.vds.nz:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://bt2.archive.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
@@ -90,6 +90,6 @@ udp://1c.premierzal.ru:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.edkj.club:6969/announce
 udp://black-bird.ynh.fr:6969/announce
+udp://tracker.cubonegro.org:1337/announce
 udp://tk1.trackerservers.com:8080/announce
 https://t1.hloli.org:443/announce
-udp://tracker.cubonegro.org:1337/announce
