@@ -85,11 +85,11 @@ udp://jutone.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 http://p2p.0g.cx:6969/announce
 http://tracker1.itzmx.com:8080/announce
-udp://1c.premierzal.ru:6969/announce
 udp://tracker.edkj.club:6969/announce
+udp://1c.premierzal.ru:6969/announce
 http://open.acgtracker.com:1096/announce
-https://t1.hloli.org:443/announce
-https://tracker.ipfsscan.io:443/announce
-udp://tk1.trackerservers.com:8080/announce
 udp://open.xxtor.com:3074/announce
+https://t1.hloli.org:443/announce
+udp://tk1.trackerservers.com:8080/announce
 udp://black-bird.ynh.fr:6969/announce
+https://tracker.ipfsscan.io:443/announce
