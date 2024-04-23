@@ -73,8 +73,8 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.vds.nz:6969/announce
 https://trackers.ptlsp.com:443/announce
 https://shahidrazi.online:443/announce
-udp://tracker.qu.ax:6969/announce
 http://t1.aag.moe:17715/announce
+udp://tracker.qu.ax:6969/announce
 udp://new-line.net:6969/announce
 udp://tracker.t-rb.org:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -88,4 +88,3 @@ http://open.acgtracker.com:1096/announce
 http://t.acg.rip:6699/announce
 https://t1.hloli.org:443/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://tracker.darkness.services:6969/announce
