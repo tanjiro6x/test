@@ -38,9 +38,9 @@ https://www.peckservers.com:9443/announce
 udp://odd-hd.fr:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://u.peer-exchange.download:6969/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.gcrreen.xyz:443/announce
+udp://u.peer-exchange.download:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.opentrackr.org:1337/announce
