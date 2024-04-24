@@ -46,9 +46,9 @@ udp://tracker.picotorrent.one:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker1.520.jp:443/announce
+udp://tracker.publictracker.xyz:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://retracker.lanta.me:2710/announce
 https://track3r.site:443/announce
