@@ -52,9 +52,9 @@ udp://open.demonii.com:1337/announce
 https://t1.hloli.org:443/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.dler.com:6969/announce
 https://tracker1.520.jp:443/announce
 https://track3r.site:443/announce
