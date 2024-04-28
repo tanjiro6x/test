@@ -17,6 +17,7 @@ udp://martin-gebhardt.eu:25/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 https://tracker.projectk.org:443/announce
+udp://tracker.leena.network:6969/announce
 udp://exodus.desync.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.files.fm:6969/announce
@@ -56,8 +57,8 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-https://tracker1.520.jp:443/announce
 https://track3r.site:443/announce
+https://tracker1.520.jp:443/announce
 udp://open.stealth.si:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://public.demonoid.ch:6969/announce
@@ -89,7 +90,7 @@ udp://tracker.filemail.com:6969/announce
 http://p2p.0g.cx:6969/announce
 udp://tracker.darkness.services:6969/announce
 http://tracker1.itzmx.com:8080/announce
-udp://ttr.croco.net:6969/announce
 udp://new-line.net:6969/announce
+udp://ttr.croco.net:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
