@@ -21,6 +21,7 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.files.fm:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://run.publictracker.xyz:6969/announce
+http://open-v6.demonoid.ch:6969/announce
 udp://moonburrow.club:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://opentracker.io:6969/announce
@@ -33,7 +34,6 @@ udp://odd-hd.fr:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://bt2.archive.org:6969/announce
-http://open-v6.demonoid.ch:6969/announce
 udp://epider.me:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://bvarf.tracker.sh:2086/announce
@@ -50,9 +50,9 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://open.demonii.com:1337/announce
 https://t1.hloli.org:443/announce
 udp://tracker.picotorrent.one:6969/announce
-http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+http://tracker.ipv6tracker.ru:80/announce
 udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.dler.com:6969/announce
 https://tracker1.520.jp:443/announce
