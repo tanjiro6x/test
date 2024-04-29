@@ -83,11 +83,11 @@ udp://tracker.qu.ax:6969/announce
 http://t1.aag.moe:17715/announce
 udp://open.publictracker.xyz:6969/announce
 udp://jutone.com:6969/announce
-https://t.peer-exchange.download:443/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.darkness.services:6969/announce
 http://p2p.0g.cx:6969/announce
 http://tracker1.itzmx.com:8080/announce
+https://t.peer-exchange.download:443/announce
 udp://new-line.net:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
