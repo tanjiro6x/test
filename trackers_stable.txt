@@ -55,8 +55,8 @@ https://t1.hloli.org:443/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://open-v6.demonoid.ch:6969/announce
-https://tracker1.520.jp:443/announce
 https://track3r.site:443/announce
+https://tracker1.520.jp:443/announce
 udp://public.demonoid.ch:6969/announce
 udp://open.stealth.si:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
