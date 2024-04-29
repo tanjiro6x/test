@@ -76,9 +76,9 @@ udp://tracker.cyberia.is:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.vds.nz:6969/announce
 https://shahidrazi.online:443/announce
-https://t.peer-exchange.download:443/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.therarbg.to:6969/announce
+https://t.peer-exchange.download:443/announce
 udp://tracker.t-rb.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://t1.aag.moe:17715/announce
@@ -91,4 +91,3 @@ http://tracker1.itzmx.com:8080/announce
 udp://new-line.net:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
-https://trackers.ptlsp.com:443/announce
