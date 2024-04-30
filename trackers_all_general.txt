@@ -70,6 +70,7 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
+udp://lulz.vpndb.org:3000/announce
 udp://martin-gebhardt.eu:25/announce
 udp://moonburrow.club:6969/announce
 udp://new-line.net:6969/announce
