@@ -79,11 +79,11 @@ https://shahidrazi.online:443/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.t-rb.org:6969/announce
-udp://tracker.qu.ax:6969/announce
 http://t1.aag.moe:17715/announce
+udp://tracker.qu.ax:6969/announce
 udp://tracker.darkness.services:6969/announce
-udp://open.publictracker.xyz:6969/announce
 udp://jutone.com:6969/announce
+udp://open.publictracker.xyz:6969/announce
 udp://tracker.filemail.com:6969/announce
 http://p2p.0g.cx:6969/announce
 http://tracker1.itzmx.com:8080/announce
