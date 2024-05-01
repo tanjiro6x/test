@@ -58,11 +58,11 @@ udp://tracker.dler.com:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker1.520.jp:443/announce
-https://www.peckservers.com:9443/announce
 https://tr.qfruiti.com:443/announce
 udp://public.demonoid.ch:6969/announce
 udp://open.stealth.si:80/announce
 udp://open-tracker.demonoid.ch:6969/announce
+https://www.peckservers.com:9443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://tamas3.ynh.fr:6969/announce
