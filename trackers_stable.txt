@@ -21,7 +21,6 @@ https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
-udp://tracker.leena.network:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.files.fm:6969/announce
 https://tracker.loligirl.cn:443/announce
@@ -49,6 +48,7 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 https://t1.hloli.org:443/announce
 udp://tracker.picotorrent.one:6969/announce
+udp://tracker.leena.network:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.srv00.com:6969/announce
 udp://open.demonii.com:1337/announce
@@ -58,8 +58,8 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://public.demonoid.ch:6969/announce
 udp://open.stealth.si:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-https://tracker1.520.jp:443/announce
 udp://tamas3.ynh.fr:6969/announce
+https://tracker1.520.jp:443/announce
 http://tracker.mywaifu.best:6969/announce
 https://tr.qfruiti.com:443/announce
 https://shahidrazi.online:443/announce
@@ -86,10 +86,10 @@ udp://btt.service.gongt.me:43079/announce
 udp://open.publictracker.xyz:6969/announce
 udp://tracker.t-rb.org:6969/announce
 http://tracker1.itzmx.com:8080/announce
+https://tracker1.ctix.cn:443/announce
 http://p2p.0g.cx:6969/announce
 udp://tracker.filemail.com:6969/announce
-https://tracker1.ctix.cn:443/announce
 http://open.acgtracker.com:1096/announce
 udp://new-line.net:6969/announce
-udp://tk1.trackerservers.com:8080/announce
 https://tracker2.ctix.cn:443/announce
+udp://tk1.trackerservers.com:8080/announce
