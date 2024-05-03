@@ -40,8 +40,8 @@ udp://bt2.archive.org:6969/announce
 udp://moonburrow.club:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://tracker.fnix.net:6969/announce
 udp://epider.me:6969/announce
+udp://tracker.fnix.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.leena.network:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -75,8 +75,8 @@ udp://tracker.vds.nz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.cloudit.top:443/announce
-udp://jutone.com:6969/announce
 http://isk.richardsw.club:6969/announce
+udp://jutone.com:6969/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.darkness.services:6969/announce
@@ -89,5 +89,4 @@ http://p2p.0g.cx:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://new-line.net:6969/announce
 http://open.acgtracker.com:1096/announce
-udp://btt.service.gongt.me:43079/announce
 udp://tk1.trackerservers.com:8080/announce
