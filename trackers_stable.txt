@@ -30,12 +30,12 @@ udp://ipv6.fuuuuuck.com:6969/announce
 https://tracker.gcrreen.xyz:443/announce
 udp://amigacity.xyz:6969/announce
 udp://open.demonoid.ch:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://retracker.lanta.me:2710/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://epider.me:6969/announce
 udp://moonburrow.club:6969/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -85,9 +85,9 @@ udp://tracker.therarbg.to:6969/announce
 http://t1.aag.moe:17715/announce
 udp://open.publictracker.xyz:6969/announce
 http://tracker1.itzmx.com:8080/announce
+udp://tracker-us.silksa.co.za:6969/announce
 udp://new-line.net:6969/announce
 udp://tracker.t-rb.org:6969/announce
-udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker.filemail.com:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
