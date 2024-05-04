@@ -83,9 +83,9 @@ http://p2p.0g.cx:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.therarbg.to:6969/announce
 http://t1.aag.moe:17715/announce
+udp://tracker-us.silksa.co.za:6969/announce
 udp://open.publictracker.xyz:6969/announce
 http://tracker1.itzmx.com:8080/announce
-udp://tracker-us.silksa.co.za:6969/announce
 udp://new-line.net:6969/announce
 udp://tracker.t-rb.org:6969/announce
 udp://tracker.filemail.com:6969/announce
