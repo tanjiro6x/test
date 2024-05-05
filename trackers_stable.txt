@@ -89,9 +89,9 @@ udp://open.publictracker.xyz:6969/announce
 udp://tracker.farted.net:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://new-line.net:6969/announce
+http://open.acgtracker.com:1096/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
 udp://lulz.vpndb.org:3000/announce
-http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
