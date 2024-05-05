@@ -53,8 +53,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 http://tracker.k.vu:6969/announce
-udp://tracker.jamesthebard.net:6969/announce
 https://tracker1.ctix.cn:443/announce
+udp://tracker.jamesthebard.net:6969/announce
 udp://open.stealth.si:80/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -86,10 +86,9 @@ udp://tracker.qu.ax:6969/announce
 http://t1.aag.moe:17715/announce
 udp://tracker.therarbg.to:6969/announce
 udp://open.publictracker.xyz:6969/announce
-http://tracker1.itzmx.com:8080/announce
 udp://tracker.farted.net:6969/announce
+http://tracker1.itzmx.com:8080/announce
 udp://new-line.net:6969/announce
-http://tracker.uraniumhexafluori.de:80/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.t-rb.org:6969/announce
 udp://lulz.vpndb.org:3000/announce
