@@ -79,10 +79,10 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://jutone.com:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.darkness.services:6969/announce
+https://tracker.pmman.tech:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker.qu.ax:6969/announce
-https://tracker.pmman.tech:443/announce
 udp://lulz.vpndb.org:3000/announce
 http://t1.aag.moe:17715/announce
 udp://open.publictracker.xyz:6969/announce
