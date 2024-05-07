@@ -75,8 +75,8 @@ http://tracker.mywaifu.best:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://1c.premierzal.ru:6969/announce
 https://tracker.lilithraws.org:443/announce
-udp://open-tracker.demonoid.ch:6969/announce
 udp://seedpeer.net:6969/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://jutone.com:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.darkness.services:6969/announce
@@ -85,9 +85,9 @@ udp://tracker2.dler.com:80/announce
 udp://lulz.vpndb.org:3000/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.qu.ax:6969/announce
-http://t1.aag.moe:17715/announce
 http://tracker1.itzmx.com:8080/announce
 udp://open.publictracker.xyz:6969/announce
+http://t1.aag.moe:17715/announce
 udp://tracker.filemail.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 http://open.acgtracker.com:1096/announce
