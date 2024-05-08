@@ -87,6 +87,5 @@ http://t1.aag.moe:17715/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://tracker.leena.network:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://bt.rer.lol:6969/announce
