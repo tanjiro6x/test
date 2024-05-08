@@ -21,7 +21,6 @@ udp://odd-hd.fr:6969/announce
 udp://evan.im:6969/announce
 https://tracker.gcrreen.xyz:443/announce
 udp://martin-gebhardt.eu:25/announce
-udp://seedpeer.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://api.boletera.org:3074/announce
 udp://tracker.silksa.co.za:6969/announce
@@ -32,6 +31,7 @@ https://tracker.loligirl.cn:443/announce
 udp://run.publictracker.xyz:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 http://ipv6.rer.lol:6969/announce
+udp://seedpeer.net:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://explodie.org:6969/announce
@@ -78,8 +78,8 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.pmman.tech:443/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://lulz.vpndb.org:3000/announce
-udp://tracker.darkness.services:6969/announce
 udp://jutone.com:6969/announce
+udp://tracker.darkness.services:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.qu.ax:6969/announce
 http://tracker1.itzmx.com:8080/announce
