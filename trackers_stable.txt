@@ -25,7 +25,6 @@ udp://u.peer-exchange.download:6969/announce
 udp://api.boletera.org:3074/announce
 udp://tracker.silksa.co.za:6969/announce
 https://tracker.gcrenwp.top:443/announce
-udp://www.torrent.eu.org:451/announce
 http://tracker.files.fm:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://run.publictracker.xyz:6969/announce
