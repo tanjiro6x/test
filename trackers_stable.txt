@@ -45,9 +45,9 @@ udp://retracker.hotplug.ru:2710/announce
 udp://epider.me:6969/announce
 udp://moonburrow.club:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.picotorrent.one:6969/announce
-udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://open.demonii.com:1337/announce
