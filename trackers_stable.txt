@@ -74,11 +74,11 @@ http://tracker.mywaifu.best:6969/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.lilithraws.org:443/announce
-udp://1c.premierzal.ru:6969/announce
 udp://lulz.vpndb.org:3000/announce
-udp://tracker.open-data.network:8888/announce
+udp://1c.premierzal.ru:6969/announce
 udp://jutone.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
+udp://tracker.open-data.network:8888/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker1.itzmx.com:8080/announce
 udp://tracker.qu.ax:6969/announce
