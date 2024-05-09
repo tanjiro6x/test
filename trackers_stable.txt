@@ -32,7 +32,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 http://ipv6.rer.lol:6969/announce
-udp://seedpeer.net:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://explodie.org:6969/announce
@@ -41,6 +40,7 @@ udp://p2p.publictracker.xyz:6969/announce
 http://bvarf.tracker.sh:2086/announce
 https://tracker.yemekyedim.com:443/announce
 udp://retracker.lanta.me:2710/announce
+udp://seedpeer.net:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://epider.me:6969/announce
 udp://moonburrow.club:6969/announce
@@ -87,4 +87,3 @@ udp://tracker.filemail.com:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
 http://t1.aag.moe:17715/announce
-udp://bt.rer.lol:6969/announce
