@@ -405,7 +405,6 @@ http://t.nyaatracker.com/announce
 http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
-http://t1.aag.moe:17715/announce
 http://t1.chfs.ch:6969/announce
 http://t1.pow7.com/announce
 http://t1.pow7.com:80/announce
@@ -1113,12 +1112,12 @@ udp://tracker.t-rb.org:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.com:6969/announce
-udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker.vds.nz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
