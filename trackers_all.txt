@@ -697,6 +697,7 @@ https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
 https://seeders-paradise.org/announce
+https://socket.onvo.me:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
 https://t.peer-exchange.download:443/announce
