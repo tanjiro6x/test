@@ -79,10 +79,9 @@ https://tracker.pmman.tech:443/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker.darkness.services:6969/announce
+udp://tracker.qu.ax:6969/announce
 https://torrent.opiums.eu:443/announce
-udp://tracker.filemail.com:6969/announce
 http://open.acgtracker.com:1096/announce
+udp://tracker.filemail.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://ryjer.com:6969/announce
