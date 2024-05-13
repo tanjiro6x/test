@@ -50,10 +50,10 @@ https://tracker.gcrenwp.top:443/announce
 udp://tracker.srv00.com:6969/announce
 udp://explodie.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://u.peer-exchange.download:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
+udp://u.peer-exchange.download:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker1.520.jp:443/announce
 https://tracker2.ctix.cn:443/announce
@@ -69,10 +69,10 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.cloudit.top:443/announce
 udp://bt2.archive.org:6969/announce
 http://p2p.0g.cx:6969/announce
+udp://www.torrent.eu.org:451/announce
 udp://bt1.archive.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://jutone.com:6969/announce
-udp://www.torrent.eu.org:451/announce
 udp://1c.premierzal.ru:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://open-tracker.demonoid.ch:6969/announce
@@ -85,4 +85,5 @@ http://open.acgtracker.com:1096/announce
 udp://tracker.filemail.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://ryjer.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
