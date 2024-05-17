@@ -41,9 +41,9 @@ udp://tracker.fnix.net:6969/announce
 https://tracker.gcrenwp.top:443/announce
 udp://tracker.darkness.services:6969/announce
 udp://amigacity.xyz:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 https://tracker.gcrreen.xyz:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-udp://tracker.publictracker.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://explodie.org:6969/announce
 udp://tracker.cyberia.is:6969/announce
@@ -80,6 +80,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
-https://torrent.opiums.eu:443/announce
 udp://ryjer.com:6969/announce
+https://torrent.opiums.eu:443/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
