@@ -46,9 +46,9 @@ https://tracker.gcrreen.xyz:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://explodie.org:6969/announce
-udp://tracker.cyberia.is:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.cyberia.is:6969/announce
 https://tracker1.520.jp:443/announce
 udp://u.peer-exchange.download:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
@@ -81,5 +81,5 @@ udp://tracker.breizh.pm:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://ryjer.com:6969/announce
-https://torrent.opiums.eu:443/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+https://torrent.opiums.eu:443/announce
