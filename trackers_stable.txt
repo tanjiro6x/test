@@ -47,7 +47,6 @@ https://tracker1.520.jp:443/announce
 https://tracker.ipfsscan.io:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://open-v6.demonoid.ch:6969/announce
-udp://lulz.vpndb.org:3000/announce
 udp://tracker.dler.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://u4.trakx.crim.ist:1337/announce
@@ -57,6 +56,7 @@ udp://tracker.cyberia.is:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker2.ctix.cn:443/announce
 udp://u.peer-exchange.download:6969/announce
+udp://lulz.vpndb.org:3000/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://seedpeer.net:6969/announce
 udp://open.demonii.com:1337/announce
