@@ -70,8 +70,8 @@ udp://odd-hd.fr:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://wepzone.net:6969/announce
 udp://bt1.archive.org:6969/announce
-udp://jutone.com:6969/announce
 http://p2p.0g.cx:6969/announce
+udp://jutone.com:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://ryjer.com:6969/announce
