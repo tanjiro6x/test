@@ -36,9 +36,9 @@ udp://tracker.darkness.services:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://epider.me:6969/announce
 udp://amigacity.xyz:6969/announce
+udp://u.peer-exchange.download:6969/announce
 udp://explodie.org:6969/announce
 udp://tracker.srv00.com:6969/announce
-udp://u.peer-exchange.download:6969/announce
 https://tracker2.ctix.cn:443/announce
 https://tracker.gcrenwp.top:443/announce
 udp://tracker.dler.com:6969/announce
@@ -57,8 +57,8 @@ https://tracker.cloudit.top:443/announce
 udp://seedpeer.net:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://tamas3.ynh.fr:6969/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker1.itzmx.com:8080/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.k.vu:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
