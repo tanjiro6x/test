@@ -61,9 +61,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.k.vu:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
+http://tracker1.itzmx.com:8080/announce
 udp://bt2.archive.org:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker1.itzmx.com:8080/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://odd-hd.fr:6969/announce
