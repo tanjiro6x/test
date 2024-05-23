@@ -69,8 +69,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://wepzone.net:6969/announce
 udp://odd-hd.fr:6969/announce
-udp://retracker.hotplug.ru:2710/announce
 https://tracker.pmman.tech:443/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://bt1.archive.org:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://jutone.com:6969/announce
