@@ -1,4 +1,3 @@
-udp://open.stealth.si:80/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -14,6 +13,7 @@ https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.silksa.co.za:6969/announce
+udp://open.stealth.si:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.tamersunion.org:443/announce
@@ -70,10 +70,10 @@ http://open.acgtracker.com:1096/announce
 udp://tracker.filemail.com:6969/announce
 udp://wepzone.net:6969/announce
 udp://1c.premierzal.ru:6969/announce
-udp://open.xxtor.com:3074/announce
 udp://jutone.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+udp://open.xxtor.com:3074/announce
 https://tracker.pmman.tech:443/announce
 udp://btt.service.gongt.me:43079/announce
 udp://open-tracker.demonoid.ch:6969/announce
