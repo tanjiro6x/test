@@ -74,6 +74,6 @@ udp://wepzone.net:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://btt.service.gongt.me:43079/announce
 https://tracker.pmman.tech:443/announce
+udp://btt.service.gongt.me:43079/announce
 udp://open-tracker.demonoid.ch:6969/announce
