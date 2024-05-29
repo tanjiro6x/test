@@ -25,12 +25,12 @@ udp://moonburrow.club:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://bubu.mapfactor.com:6969/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.gcrreen.xyz:443/announce
+udp://tracker.qu.ax:6969/announce
+udp://tracker.darkness.services:6969/announce
 https://tracker.gcrenwp.top:443/announce
 udp://mikrotik2.draatman.net:6969/announce
-udp://tracker.darkness.services:6969/announce
 udp://exodus.desync.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -62,10 +62,10 @@ udp://tamas3.ynh.fr:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://t.peer-exchange.download:443/announce
-http://tracker.k.vu:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 http://open.acgtracker.com:1096/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.k.vu:6969/announce
 udp://odd-hd.fr:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.filemail.com:6969/announce
