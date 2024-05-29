@@ -13,6 +13,7 @@ https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.draatman.uk:6969/announce
 udp://ttr.croco.net:6969/announce
+udp://tk2.trackerservers.com:8080/announce
 udp://open.stealth.si:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.breizh.pm:6969/announce
