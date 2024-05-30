@@ -66,7 +66,6 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://mikrotik2.draatman.net:6969/announce
 udp://moonburrow.club:6969/announce
 udp://new-line.net:6969/announce
 udp://odd-hd.fr:6969/announce
