@@ -14,7 +14,6 @@ https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.draatman.uk:6969/announce
 udp://ttr.croco.net:6969/announce
-udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://open.stealth.si:80/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -67,15 +66,15 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://odd-hd.fr:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
-https://tracker.gcrreen.xyz:443/announce
 http://open.acgtracker.com:1096/announce
 udp://wepzone.net:6969/announce
 udp://1c.premierzal.ru:6969/announce
+https://tracker.gcrreen.xyz:443/announce
 udp://tracker.filemail.com:6969/announce
 udp://jutone.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.k.vu:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 udp://btt.service.gongt.me:43079/announce
+udp://mikrotik2.draatman.net:6969/announce
