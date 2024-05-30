@@ -60,9 +60,9 @@ http://isk.richardsw.club:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.ipfsscan.io:443/announce
-https://tracker.gcrreen.xyz:443/announce
 https://t.peer-exchange.download:443/announce
 udp://tamas3.ynh.fr:6969/announce
+https://tracker.gcrreen.xyz:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
@@ -74,8 +74,8 @@ udp://1c.premierzal.ru:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://jutone.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
-http://tracker.k.vu:6969/announce
 https://tracker.pmman.tech:443/announce
+http://tracker.k.vu:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://open-tracker.demonoid.ch:6969/announce
+udp://btt.service.gongt.me:43079/announce
