@@ -77,5 +77,5 @@ udp://retracker.hotplug.ru:2710/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://new-line.net:6969/announce
+http://tracker.ipv6tracker.ru:80/announce
 udp://open-tracker.demonoid.ch:6969/announce
-http://p2p.0g.cx:6969/announce
