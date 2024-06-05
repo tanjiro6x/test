@@ -76,4 +76,3 @@ udp://tracker.filemail.com:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.breizh.pm:6969/announce
-http://p2p.0g.cx:6969/announce
