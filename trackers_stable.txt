@@ -64,8 +64,8 @@ udp://open.dstud.io:6969/announce
 http://isk.richardsw.club:6969/announce
 udp://seedpeer.net:6969/announce
 udp://odd-hd.fr:6969/announce
-udp://tracker.cubonegro.org:1337/announce
 http://tracker.dump.cl:6969/announce
+udp://tracker.cubonegro.org:1337/announce
 https://trackers.run:443/announce
 udp://new-line.net:6969/announce
 udp://tamas3.ynh.fr:6969/announce
