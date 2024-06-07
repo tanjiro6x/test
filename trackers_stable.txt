@@ -1,6 +1,5 @@
 udp://explodie.org:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://bubu.mapfactor.com:6969/announce
 udp://open.demonii.com:1337/announce
 https://tracker.lilithraws.org:443/announce
 https://trackers.mlsub.net:443/announce
@@ -8,15 +7,16 @@ udp://opentracker.io:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://evan.im:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://amigacity.xyz:6969/announce
 https://t.peer-exchange.download:443/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://open.stealth.si:80/announce
+udp://bubu.mapfactor.com:6969/announce
 udp://moonburrow.club:6969/announce
 https://tracker.tamersunion.org:443/announce
 udp://tracker.fnix.net:6969/announce
+udp://evan.im:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://ttr.croco.net:6969/announce
@@ -67,8 +67,8 @@ udp://seedpeer.net:6969/announce
 udp://odd-hd.fr:6969/announce
 http://isk.richardsw.club:6969/announce
 http://tracker.dump.cl:6969/announce
-udp://new-line.net:6969/announce
 https://trackers.run:443/announce
+udp://new-line.net:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://t.overflow.biz:6969/announce
