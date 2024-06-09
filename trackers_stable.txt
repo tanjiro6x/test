@@ -59,9 +59,9 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.dump.cl:6969/announce
 udp://open.dstud.io:6969/announce
 https://tracker.cloudit.top:443/announce
+udp://retracker.hotplug.ru:2710/announce
 http://tracker.mywaifu.best:6969/announce
 udp://odd-hd.fr:6969/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://tracker.srv00.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
