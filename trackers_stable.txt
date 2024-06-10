@@ -12,6 +12,7 @@ udp://martin-gebhardt.eu:25/announce
 udp://amigacity.xyz:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://open.stealth.si:80/announce
+http://tracker.files.fm:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://moonburrow.club:6969/announce
 udp://open.demonii.com:1337/announce
@@ -24,7 +25,6 @@ https://tracker.gcrenwp.top:443/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.files.fm:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://z.mercax.com:53/announce
