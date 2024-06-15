@@ -75,4 +75,5 @@ udp://jutone.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://p4p.arenabg.com:1337/announce
 http://p2p.0g.cx:6969/announce
