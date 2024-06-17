@@ -52,7 +52,6 @@ udp://odd-hd.fr:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.dump.cl:6969/announce
-udp://z.mercax.com:53/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://trackers.run:443/announce
@@ -63,6 +62,7 @@ https://tracker.cloudit.top:443/announce
 http://isk.richardsw.club:6969/announce
 udp://seedpeer.net:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://z.mercax.com:53/announce
 udp://tracker.srv00.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://new-line.net:6969/announce
