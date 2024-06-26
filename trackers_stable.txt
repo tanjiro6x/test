@@ -44,9 +44,9 @@ udp://open.dstud.io:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://www.torrent.eu.org:451/announce
 udp://opentracker.io:6969/announce
+udp://tracker.qu.ax:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.cyberia.is:6969/announce
-udp://tracker.qu.ax:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://explodie.org:6969/announce
 udp://tracker.birkenwald.de:6969/announce
