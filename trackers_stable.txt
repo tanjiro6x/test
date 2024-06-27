@@ -66,9 +66,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.filemail.com:6969/announce
-http://tracker.gbitt.info:80/announce
 http://tracker.mywaifu.best:6969/announce
 udp://u.peer-exchange.download:6969/announce
+http://tracker.gbitt.info:80/announce
 udp://p4p.arenabg.com:1337/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
