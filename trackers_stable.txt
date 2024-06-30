@@ -25,8 +25,8 @@ udp://bt2.archive.org:6969/announce
 http://tracker.renfei.net:8080/announce
 http://ipv6.rer.lol:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
-https://tracker.gcrenwp.top:443/announce
 udp://bt1.archive.org:6969/announce
+https://tracker.gcrenwp.top:443/announce
 https://tracker.tamersunion.org:443/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
