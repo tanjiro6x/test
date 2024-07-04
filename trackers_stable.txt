@@ -67,14 +67,14 @@ udp://tracker.filemail.com:6969/announce
 https://tracker1.520.jp:443/announce
 https://tracker2.ctix.cn:443/announce
 udp://p4p.arenabg.com:1337/announce
-https://tracker1.ctix.cn:443/announce
 https://t.peer-exchange.download:443/announce
+https://tracker1.ctix.cn:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
 udp://wepzone.net:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://jutone.com:6969/announce
-udp://tracker.silksa.co.za:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://tracker.silksa.co.za:6969/announce
 http://tracker.mywaifu.best:6969/announce
