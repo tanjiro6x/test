@@ -20,11 +20,11 @@ http://ipv6.rer.lol:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.draatman.uk:6969/announce
 udp://moonburrow.club:6969/announce
-http://tracker.renfei.net:8080/announce
 udp://bt1.archive.org:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://bt2.archive.org:6969/announce
+http://tracker.renfei.net:8080/announce
 https://tracker.tamersunion.org:443/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -37,9 +37,9 @@ https://tracker.gcrenwp.top:443/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://retracker.lanta.me:2710/announce
-udp://open.dstud.io:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://tracker.breizh.pm:6969/announce
+udp://open.dstud.io:6969/announce
 udp://epider.me:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://www.torrent.eu.org:451/announce
@@ -65,9 +65,9 @@ udp://retracker.hotplug.ru:2710/announce
 http://isk.richardsw.club:6969/announce
 udp://tracker.filemail.com:6969/announce
 https://tracker2.ctix.cn:443/announce
+udp://wepzone.net:6969/announce
 udp://p4p.arenabg.com:1337/announce
 https://tracker1.520.jp:443/announce
-udp://wepzone.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
 https://t.peer-exchange.download:443/announce
 https://tracker1.ctix.cn:443/announce
