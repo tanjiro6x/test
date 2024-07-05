@@ -1,4 +1,5 @@
 http://1337.abcvg.info:80/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
 http://canardscitrons.nohost.me:6969/announce
@@ -34,7 +35,6 @@ https://tracker.ipfsscan.io:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.pmman.tech:443/announce
-https://tracker.renfei.net:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
@@ -46,6 +46,7 @@ https://www.peckservers.com:9443/announce
 udp://1c.premierzal.ru:6969/announce
 udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
@@ -75,6 +76,7 @@ udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
+udp://open.u-p.pw:6969/announce
 udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
@@ -113,7 +115,9 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.srv00.com:6969/announce
 udp://tracker.theoks.net:6969/announce
+udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
