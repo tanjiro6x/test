@@ -11,6 +11,7 @@ udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker.xor.st:6969/announce
+http://open.tracker.ink:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 https://tracker.lilithraws.org:443/announce
 udp://amigacity.xyz:6969/announce
@@ -36,9 +37,9 @@ https://tracker.gcrenwp.top:443/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://retracker.lanta.me:2710/announce
+https://pybittrack.retiolus.net:443/announce
 udp://open.demonoid.ch:6969/announce
 udp://www.torrent.eu.org:451/announce
-https://pybittrack.retiolus.net:443/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://tracker.breizh.pm:6969/announce
 udp://epider.me:6969/announce
