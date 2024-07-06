@@ -42,8 +42,8 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://epider.me:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.breizh.pm:6969/announce
-udp://ttk2.nbaonlineservice.com:6969/announce
 udp://open.dstud.io:6969/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://seedpeer.net:6969/announce
 udp://tk2.trackerservers.com:8080/announce
@@ -55,9 +55,9 @@ http://open-v6.demonoid.ch:6969/announce
 http://tracker.dump.cl:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
+https://tracker.cloudit.top:443/announce
 udp://wepzone.net:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
-https://tracker.cloudit.top:443/announce
 https://trackers.run:443/announce
 udp://tracker.cyberia.is:6969/announce
 udp://odd-hd.fr:6969/announce
