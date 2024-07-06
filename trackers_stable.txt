@@ -72,8 +72,8 @@ https://t.peer-exchange.download:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
 https://tracker1.ctix.cn:443/announce
 udp://tamas3.ynh.fr:6969/announce
-http://tracker.renfei.net:8080/announce
 udp://ryjer.com:6969/announce
+http://tracker.renfei.net:8080/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://jutone.com:6969/announce
