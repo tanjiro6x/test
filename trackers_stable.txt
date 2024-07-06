@@ -66,10 +66,10 @@ udp://wepzone.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://p4p.arenabg.com:1337/announce
 https://tracker2.ctix.cn:443/announce
-http://tracker.renfei.net:8080/announce
 udp://u.peer-exchange.download:6969/announce
 https://tracker1.520.jp:443/announce
 https://t.peer-exchange.download:443/announce
+http://tracker.renfei.net:8080/announce
 udp://tracker-us.silksa.co.za:6969/announce
 https://tracker1.ctix.cn:443/announce
 udp://tamas3.ynh.fr:6969/announce
