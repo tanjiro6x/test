@@ -45,6 +45,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://z.mercax.com:53/announce
 http://bvarf.tracker.sh:2086/announce
 udp://seedpeer.net:6969/announce
 http://open-v6.demonoid.ch:6969/announce
@@ -62,15 +63,14 @@ https://trackers.run:443/announce
 udp://tracker.cyberia.is:6969/announce
 udp://odd-hd.fr:6969/announce
 http://isk.richardsw.club:6969/announce
-udp://z.mercax.com:53/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.filemail.com:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://p4p.arenabg.com:1337/announce
-https://tracker2.ctix.cn:443/announce
 udp://u.peer-exchange.download:6969/announce
-https://tracker1.520.jp:443/announce
+https://tracker2.ctix.cn:443/announce
 https://t.peer-exchange.download:443/announce
+https://tracker1.520.jp:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
 https://tracker1.ctix.cn:443/announce
 https://tracker.pmman.tech:443/announce
