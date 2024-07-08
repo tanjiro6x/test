@@ -1,5 +1,4 @@
 udp://open.stealth.si:80/announce
-udp://exodus.desync.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://z.mercax.com:53/announce
 udp://bubu.mapfactor.com:6969/announce
@@ -10,6 +9,7 @@ udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker.xor.st:6969/announce
+udp://exodus.desync.com:6969/announce
 http://tracker.files.fm:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
@@ -65,8 +65,8 @@ udp://odd-hd.fr:6969/announce
 http://isk.richardsw.club:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://p4p.arenabg.com:1337/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://tamas3.ynh.fr:6969/announce
+udp://retracker.hotplug.ru:2710/announce
 udp://u.peer-exchange.download:6969/announce
 https://t.peer-exchange.download:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
