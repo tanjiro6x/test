@@ -15,12 +15,12 @@ udp://open.demonii.com:1337/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 udp://amigacity.xyz:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://bt1.archive.org:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://moonburrow.club:6969/announce
@@ -74,9 +74,8 @@ udp://retracker.hotplug.ru:2710/announce
 https://tracker.pmman.tech:443/announce
 https://tracker1.520.jp:443/announce
 http://tracker.mywaifu.best:6969/announce
-https://tracker1.ctix.cn:443/announce
 https://tracker2.ctix.cn:443/announce
+https://tracker1.ctix.cn:443/announce
 udp://tracker.darkness.services:6969/announce
 udp://ryjer.com:6969/announce
-udp://jutone.com:6969/announce
 udp://tracker4.itzmx.com:2710/announce
