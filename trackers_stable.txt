@@ -16,10 +16,10 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 udp://tracker.draatman.uk:6969/announce
 udp://amigacity.xyz:6969/announce
+udp://oh.fuuuuuck.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://bt.okmp3.ru:2710/announce
-udp://oh.fuuuuuck.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://tracker.gmi.gd:6969/announce
