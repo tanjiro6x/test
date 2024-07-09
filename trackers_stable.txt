@@ -3,6 +3,7 @@ udp://z.mercax.com:53/announce
 udp://bubu.mapfactor.com:6969/announce
 https://trackers.mlsub.net:443/announce
 http://tracker1.itzmx.com:8080/announce
+udp://oh.fuuuuuck.com:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
@@ -14,7 +15,6 @@ http://tracker.files.fm:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 https://tracker.lilithraws.org:443/announce
-udp://oh.fuuuuuck.com:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://amigacity.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
@@ -40,12 +40,12 @@ https://pybittrack.retiolus.net:443/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://open.dstud.io:6969/announce
 udp://epider.me:6969/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://tracker.breizh.pm:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
-udp://tracker.breizh.pm:6969/announce
 udp://opentracker.io:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://seedpeer.net:6969/announce
@@ -69,8 +69,8 @@ udp://tamas3.ynh.fr:6969/announce
 udp://u.peer-exchange.download:6969/announce
 https://t.peer-exchange.download:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
-udp://tracker.qu.ax:6969/announce
 https://tracker.pmman.tech:443/announce
+udp://tracker.qu.ax:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker1.520.jp:443/announce
 http://tracker.mywaifu.best:6969/announce
