@@ -53,13 +53,13 @@ udp://explodie.org:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://tracker.birkenwald.de:6969/announce
-udp://tracker.breizh.pm:6969/announce
 https://www.peckservers.com:9443/announce
 http://tracker.dump.cl:6969/announce
+udp://tracker.breizh.pm:6969/announce
 udp://wepzone.net:6969/announce
+https://t1.hloli.org:443/announce
 udp://p2p.publictracker.xyz:6969/announce
 https://trackers.run:443/announce
-https://t1.hloli.org:443/announce
 udp://tracker.cyberia.is:6969/announce
 http://isk.richardsw.club:6969/announce
 https://tracker.cloudit.top:443/announce
