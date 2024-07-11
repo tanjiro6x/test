@@ -75,6 +75,6 @@ udp://tracker-us.silksa.co.za:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker1.520.jp:443/announce
-udp://ryjer.com:6969/announce
 udp://tracker.darkness.services:6969/announce
+udp://ryjer.com:6969/announce
 udp://tracker4.itzmx.com:2710/announce
