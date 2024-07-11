@@ -42,6 +42,7 @@ udp://epider.me:6969/announce
 https://pybittrack.retiolus.net:443/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
+udp://wepzone.net:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://retracker.lanta.me:2710/announce
 udp://open.publictracker.xyz:6969/announce
@@ -54,12 +55,11 @@ udp://seedpeer.net:6969/announce
 udp://explodie.org:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 http://open-v6.demonoid.ch:6969/announce
-udp://wepzone.net:6969/announce
 https://www.peckservers.com:9443/announce
 http://tracker.dump.cl:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
-https://trackers.run:443/announce
 http://t1.aag.moe:17715/announce
+https://trackers.run:443/announce
 udp://tracker.cyberia.is:6969/announce
 http://isk.richardsw.club:6969/announce
 udp://odd-hd.fr:6969/announce
