@@ -10,7 +10,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker.xor.st:6969/announce
-udp://bandito.byterunner.io:6969/announce
 udp://open.stealth.si:80/announce
 udp://exodus.desync.com:6969/announce
 http://tracker.files.fm:6969/announce
@@ -70,9 +69,9 @@ udp://tracker.filemail.com:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://u.peer-exchange.download:6969/announce
 https://tracker.pmman.tech:443/announce
+http://tracker.mywaifu.best:6969/announce
 https://t.peer-exchange.download:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
-http://tracker.mywaifu.best:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker1.520.jp:443/announce
 udp://tracker.torrust-demo.com:6969/announce
