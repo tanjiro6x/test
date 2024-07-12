@@ -75,9 +75,9 @@ http://tracker.mywaifu.best:6969/announce
 https://t.peer-exchange.download:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker1.520.jp:443/announce
+udp://retracker.hotplug.ru:2710/announce
 http://open-v6.demonoid.ch:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://ryjer.com:6969/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tracker.darkness.services:6969/announce
