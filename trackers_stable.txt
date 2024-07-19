@@ -15,7 +15,6 @@ udp://tracker.xor.st:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker.t-1.org:6969/announce
-https://tracker.amelia.fun:443/announce
 udp://open.stealth.si:80/announce
 http://tracker.files.fm:6969/announce
 udp://open.demonii.com:1337/announce
