@@ -75,5 +75,6 @@ https://tracker.pmman.tech:443/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://bandito.byterunner.io:6969/announce
 udp://jutone.com:6969/announce
 udp://tracker.darkness.services:6969/announce
