@@ -36,8 +36,8 @@ udp://bt2.archive.org:6969/announce
 http://tracker.dump.cl:6969/announce
 udp://explodie.org:6969/announce
 udp://run.publictracker.xyz:6969/announce
-udp://epider.me:6969/announce
 udp://tk2.trackerservers.com:8080/announce
+udp://epider.me:6969/announce
 udp://opentracker.io:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
