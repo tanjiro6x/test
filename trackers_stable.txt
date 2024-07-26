@@ -5,7 +5,6 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.lilithraws.org:443/announce
 https://trackers.mlsub.net:443/announce
 http://tracker1.itzmx.com:8080/announce
-udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.gcrenwp.top:443/announce
@@ -14,6 +13,7 @@ udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 udp://ipv6.fuuuuuck.com:6969/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://z.mercax.com:53/announce
@@ -48,9 +48,9 @@ http://bvarf.tracker.sh:2086/announce
 udp://seedpeer.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 https://pybittrack.retiolus.net:443/announce
-http://isk.richardsw.club:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tamas3.ynh.fr:6969/announce
+http://isk.richardsw.club:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://moonburrow.club:6969/announce
 http://t1.aag.moe:17715/announce
