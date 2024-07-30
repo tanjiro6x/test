@@ -74,5 +74,4 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.darkness.services:6969/announce
 https://t.peer-exchange.download:443/announce
 udp://tracker4.itzmx.com:2710/announce
-https://tracker.amelia.fun:443/announce
 udp://tracker.torrust-demo.com:6969/announce
