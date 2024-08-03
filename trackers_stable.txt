@@ -58,10 +58,10 @@ udp://run.publictracker.xyz:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://opentracker.io:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
-udp://oh.fuuuuuck.com:6969/announce
 http://t1.aag.moe:17715/announce
 https://pybittrack.retiolus.net:443/announce
 http://open.acgtracker.com:1096/announce
+udp://oh.fuuuuuck.com:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://u.peer-exchange.download:6969/announce
 udp://wepzone.net:6969/announce
