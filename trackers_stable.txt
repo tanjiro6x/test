@@ -37,11 +37,11 @@ udp://bt2.archive.org:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://epider.me:6969/announce
+https://bittorrent.service.gongt.me:59443/announce
 udp://tracker.cyberia.is:6969/announce
 udp://bt1.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://open.demonoid.ch:6969/announce
-https://bittorrent.service.gongt.me:59443/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://www.torrent.eu.org:451/announce
 http://isk.richardsw.club:6969/announce
