@@ -59,8 +59,8 @@ udp://bandito.byterunner.io:6969/announce
 udp://odd-hd.fr:6969/announce
 http://t1.aag.moe:17715/announce
 udp://amigacity.xyz:6969/announce
-udp://wepzone.net:6969/announce
 udp://run.publictracker.xyz:6969/announce
+udp://wepzone.net:6969/announce
 http://tracker.bt4g.com:2095/announce
 http://open.acgtracker.com:1096/announce
 udp://1c.premierzal.ru:6969/announce
