@@ -50,8 +50,8 @@ http://isk.richardsw.club:6969/announce
 http://tracker.dump.cl:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 https://trackers.run:443/announce
-udp://moonburrow.club:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://moonburrow.club:6969/announce
 https://pybittrack.retiolus.net:443/announce
 https://tracker.cloudit.top:443/announce
 udp://tracker.deadorbit.nl:6969/announce
