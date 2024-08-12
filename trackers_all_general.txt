@@ -1,7 +1,5 @@
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bt.okmp3.ru:2710/announce
 http://bvarf.tracker.sh:2086/announce
-http://canardscitrons.nohost.me:6969/announce
 http://ch3oh.ru:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://isk.richardsw.club:6969/announce
@@ -46,7 +44,9 @@ udp://1c.premierzal.ru:6969/announce
 udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://bandito.byterunner.io:6969/announce
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://bt.ktrackers.com:6666/announce
+udp://bt.rer.lol:2710/announce
+udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://concen.org:6969/announce
@@ -68,7 +68,6 @@ udp://odd-hd.fr:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
-udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
@@ -76,6 +75,7 @@ udp://open.u-p.pw:6969/announce
 udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
+udp://public.tracker.vraphim.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://run.publictracker.xyz:6969/announce
@@ -87,7 +87,6 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
@@ -97,7 +96,6 @@ udp://tracker.darkness.services:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
