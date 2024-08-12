@@ -69,7 +69,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://wepzone.net:6969/announce
 udp://ryjer.com:6969/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://wepzone.net:6969/announce
 https://tracker1.520.jp:443/announce
