@@ -54,9 +54,9 @@ http://tracker.dump.cl:6969/announce
 udp://moonburrow.club:6969/announce
 https://pybittrack.retiolus.net:443/announce
 https://tracker.cloudit.top:443/announce
-udp://tracker.deadorbit.nl:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://odd-hd.fr:6969/announce
+udp://tracker.deadorbit.nl:6969/announce
 http://t1.aag.moe:17715/announce
 udp://amigacity.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
