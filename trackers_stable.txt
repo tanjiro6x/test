@@ -6,6 +6,7 @@ http://bt.okmp3.ru:2710/announce
 https://tracker.tamersunion.org:443/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.yemekyedim.com:443/announce
+http://ipv6.rer.lol:6969/announce
 https://retracker2.x2k.ru:443/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -13,7 +14,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://open.dstud.io:6969/announce
 https://trackers.mlsub.net:443/announce
 http://tracker1.itzmx.com:8080/announce
-http://ipv6.rer.lol:6969/announce
 udp://seedpeer.net:6969/announce
 https://tracker.gcrenwp.top:443/announce
 http://retracker.x2k.ru:80/announce
@@ -58,9 +58,9 @@ udp://bandito.byterunner.io:6969/announce
 udp://odd-hd.fr:6969/announce
 http://t1.aag.moe:17715/announce
 udp://amigacity.xyz:6969/announce
-udp://tracker.deadorbit.nl:6969/announce
 udp://run.publictracker.xyz:6969/announce
 http://tracker.bt4g.com:2095/announce
+udp://tracker.deadorbit.nl:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 http://open.acgtracker.com:1096/announce
 http://tracker.mywaifu.best:6969/announce
@@ -72,4 +72,3 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://ryjer.com:6969/announce
 https://tracker1.520.jp:443/announce
-udp://wepzone.net:6969/announce
