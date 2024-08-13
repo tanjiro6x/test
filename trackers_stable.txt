@@ -49,10 +49,10 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tracker.filemail.com:6969/announce
 https://tracker.cloudit.top:443/announce
+http://tracker.dump.cl:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 http://isk.richardsw.club:6969/announce
 https://trackers.run:443/announce
-http://tracker.dump.cl:6969/announce
 udp://moonburrow.club:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://bandito.byterunner.io:6969/announce
