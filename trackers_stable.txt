@@ -57,8 +57,8 @@ udp://moonburrow.club:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://t1.aag.moe:17715/announce
 udp://amigacity.xyz:6969/announce
+http://t1.aag.moe:17715/announce
 http://tracker.bt4g.com:2095/announce
 udp://run.publictracker.xyz:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
