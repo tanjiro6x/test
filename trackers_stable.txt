@@ -37,9 +37,9 @@ udp://epider.me:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://bt2.archive.org:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://www.torrent.eu.org:451/announce
 udp://bt1.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
-udp://www.torrent.eu.org:451/announce
 udp://u.peer-exchange.download:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://open.publictracker.xyz:6969/announce
@@ -69,7 +69,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://opentracker.io:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://1c.premierzal.ru:6969/announce
-udp://u6.trakx.crim.ist:1337/announce
 http://tracker2.itzmx.com:6961/announce
+udp://u6.trakx.crim.ist:1337/announce
 https://tracker1.520.jp:443/announce
 udp://ryjer.com:6969/announce
