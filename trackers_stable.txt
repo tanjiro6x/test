@@ -32,8 +32,8 @@ udp://tracker.opentrackr.org:1337/announce
 https://bittorrent.service.gongt.me:59443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.pmman.tech:443/announce
-udp://open.demonoid.ch:6969/announce
 udp://epider.me:6969/announce
+udp://open.demonoid.ch:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://bt2.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
@@ -61,8 +61,8 @@ udp://amigacity.xyz:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://t1.aag.moe:17715/announce
 http://tracker2.itzmx.com:6961/announce
+http://t1.aag.moe:17715/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
