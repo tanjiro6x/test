@@ -42,10 +42,10 @@ udp://bt1.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://u.peer-exchange.download:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.cyberia.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
-udp://tracker.cyberia.is:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 http://tracker.dump.cl:6969/announce
 udp://tracker.filemail.com:6969/announce
