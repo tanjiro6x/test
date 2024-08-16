@@ -30,9 +30,9 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 https://bittorrent.service.gongt.me:59443/announce
+udp://odd-hd.fr:6969/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.lilithraws.org:443/announce
-udp://odd-hd.fr:6969/announce
 udp://epider.me:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://tk2.trackerservers.com:8080/announce
@@ -47,9 +47,9 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tamas3.ynh.fr:6969/announce
-udp://tracker.0x7c0.com:6969/announce
 http://tracker.dump.cl:6969/announce
 udp://tracker.filemail.com:6969/announce
 https://tracker.cloudit.top:443/announce
