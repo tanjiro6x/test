@@ -32,8 +32,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.0x7c0.com:6969/announce
 https://bittorrent.service.gongt.me:59443/announce
 udp://tracker.opentrackr.org:1337/announce
-udp://tracker.gmi.gd:6969/announce
 http://tracker2.itzmx.com:6961/announce
+udp://tracker.gmi.gd:6969/announce
 https://tracker.pmman.tech:443/announce
 https://trackers.run:443/announce
 udp://epider.me:6969/announce
@@ -73,5 +73,5 @@ udp://opentracker.io:6969/announce
 https://tracker1.520.jp:443/announce
 udp://1c.premierzal.ru:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
-udp://jutone.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://jutone.com:6969/announce
