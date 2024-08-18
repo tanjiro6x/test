@@ -45,14 +45,14 @@ udp://open.demonoid.ch:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tracker.filemail.com:6969/announce
 udp://www.torrent.eu.org:451/announce
-https://tracker.lilithraws.org:443/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
-udp://tk2v6.trackerservers.com:8080/announce
 udp://tamas3.ynh.fr:6969/announce
+https://tracker.lilithraws.org:443/announce
+udp://tk2v6.trackerservers.com:8080/announce
 http://tracker.dump.cl:6969/announce
 http://isk.richardsw.club:6969/announce
 https://tracker.cloudit.top:443/announce
@@ -63,8 +63,8 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://run.publictracker.xyz:6969/announce
 http://t1.aag.moe:17715/announce
-http://tracker.mywaifu.best:6969/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.mywaifu.best:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 http://open.acgtracker.com:1096/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
