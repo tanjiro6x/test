@@ -27,11 +27,11 @@ udp://explodie.org:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 https://tracker.yemekyedim.com:443/announce
+https://trackers.run:443/announce
 https://retracker2.x2k.ru:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.0x7c0.com:6969/announce
 http://tracker2.itzmx.com:6961/announce
-https://trackers.run:443/announce
 https://bittorrent.service.gongt.me:59443/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.gmi.gd:6969/announce
@@ -71,7 +71,7 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://opentracker.io:6969/announce
 https://tracker1.520.jp:443/announce
-udp://1c.premierzal.ru:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://u6.trakx.crim.ist:1337/announce
+udp://1c.premierzal.ru:6969/announce
 udp://jutone.com:6969/announce
