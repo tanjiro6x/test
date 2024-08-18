@@ -58,8 +58,8 @@ http://isk.richardsw.club:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://moonburrow.club:6969/announce
 udp://bandito.byterunner.io:6969/announce
-udp://amigacity.xyz:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://amigacity.xyz:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://run.publictracker.xyz:6969/announce
 http://t1.aag.moe:17715/announce
