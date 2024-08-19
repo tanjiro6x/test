@@ -70,8 +70,8 @@ http://tracker.mywaifu.best:6969/announce
 https://tracker1.520.jp:443/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 http://open.acgtracker.com:1096/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://opentracker.io:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://jutone.com:6969/announce
