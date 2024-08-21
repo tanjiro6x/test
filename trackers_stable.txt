@@ -74,3 +74,4 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://opentracker.io:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
+udp://tracker.torrust-demo.com:6969/announce
