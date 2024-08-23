@@ -59,9 +59,9 @@ http://isk.richardsw.club:6969/announce
 http://tracker.dump.cl:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://tamas3.ynh.fr:6969/announce
-https://threads.canofsocks.com:443/announce
 udp://bandito.byterunner.io:6969/announce
 udp://moonburrow.club:6969/announce
+https://threads.canofsocks.com:443/announce
 udp://epider.me:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
