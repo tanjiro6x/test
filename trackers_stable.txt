@@ -65,8 +65,8 @@ udp://bandito.byterunner.io:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://run.publictracker.xyz:6969/announce
 http://t1.aag.moe:17715/announce
-udp://open.demonoid.ch:6969/announce
 https://tracker1.520.jp:443/announce
+udp://open.demonoid.ch:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
