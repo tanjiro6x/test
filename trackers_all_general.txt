@@ -5,6 +5,7 @@ http://ch3oh.ru:6969/announce
 http://isk.richardsw.club:6969/announce
 http://open.acgtracker.com:1096/announce
 http://retracker.x2k.ru:80/announce
+http://smurfsoft.com:6969/announce
 http://t.overflow.biz:6969/announce
 http://t1.aag.moe:17715/announce
 http://tr.kxmp.cf:80/announce
@@ -110,7 +111,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker1.myporn.club:9337/announce
