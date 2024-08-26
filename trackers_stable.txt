@@ -14,7 +14,6 @@ udp://evan.im:6969/announce
 https://tracker.cloudit.top:443/announce
 http://tracker2.itzmx.com:6961/announce
 https://tracker.yemekyedim.com:443/announce
-udp://seedpeer.net:6969/announce
 https://tracker.gcrenwp.top:443/announce
 https://pybittrack.retiolus.net:443/announce
 udp://tracker.xor.st:6969/announce
@@ -29,6 +28,7 @@ http://bt.okmp3.ru:2710/announce
 http://tracker1.itzmx.com:8080/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://seedpeer.net:6969/announce
 https://trackers.run:443/announce
 udp://p4p.arenabg.com:1337/announce
 https://www.peckservers.com:9443/announce
@@ -44,9 +44,9 @@ udp://tracker.gmi.gd:6969/announce
 https://bittorrent.service.gongt.me:59443/announce
 udp://trackarr.org:6969/announce
 udp://tracker.birkenwald.de:6969/announce
-http://smurfsoft.com:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
+http://smurfsoft.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 http://tracker.bt4g.com:2095/announce
