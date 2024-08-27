@@ -34,11 +34,11 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://odd-hd.fr:6969/announce
 http://bvarf.tracker.sh:2086/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://martin-gebhardt.eu:25/announce
 https://retracker2.x2k.ru:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 https://www.peckservers.com:9443/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://bittorrent.service.gongt.me:59443/announce
@@ -59,8 +59,8 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.filemail.com:6969/announce
 http://tracker.dump.cl:6969/announce
 udp://moonburrow.club:6969/announce
-udp://run.publictracker.xyz:6969/announce
 https://tracker.lilithraws.org:443/announce
+udp://run.publictracker.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 http://isk.richardsw.club:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
