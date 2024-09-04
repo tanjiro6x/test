@@ -29,7 +29,6 @@ http://wepzone.net:6969/announce
 http://www.peckservers.com:9000/announce
 https://pybittrack.retiolus.net:443/announce
 https://retracker2.x2k.ru:443/announce
-https://track.solcloud.eu:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.gcrenwp.top:443/announce
