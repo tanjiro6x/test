@@ -16,9 +16,9 @@ udp://trackarr.org:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
 udp://p4p.arenabg.com:1337/announce
 http://bt.okmp3.ru:2710/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 udp://odd-hd.fr:6969/announce
 http://tracker2.itzmx.com:6961/announce
 udp://amigacity.xyz:6969/announce
@@ -30,7 +30,6 @@ http://tracker.bt4g.com:2095/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.k.vu:6969/announce
 http://tracker1.itzmx.com:8080/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 udp://martin-gebhardt.eu:25/announce
 https://trackers.run:443/announce
 udp://tracker.gmi.gd:6969/announce
@@ -50,9 +49,9 @@ https://tracker.lilithraws.org:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 https://tracker.itscraftsoftware.my.id:443/announce
+udp://open.publictracker.xyz:6969/announce
 http://retracker.x2k.ru:80/announce
 udp://bt1.archive.org:6969/announce
-udp://open.publictracker.xyz:6969/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 http://t1.aag.moe:17715/announce
 http://tracker.dump.cl:6969/announce
