@@ -7,6 +7,7 @@ udp://tracker.0x7c0.com:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://evan.im:6969/announce
+http://ipv6.rer.lol:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -26,7 +27,6 @@ udp://tracker.breizh.pm:6969/announce
 http://tracker.k.vu:6969/announce
 udp://moonburrow.club:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-http://ipv6.rer.lol:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.darkness.services:6969/announce
 https://trackers.run:443/announce
@@ -41,17 +41,17 @@ udp://run.publictracker.xyz:6969/announce
 udp://tracker.xor.st:6969/announce
 http://tracker.files.fm:6969/announce
 udp://tracker.tryhackx.org:6969/announce
-http://tracker2.itzmx.com:6961/announce
 http://retracker.x2k.ru:80/announce
 https://tracker.itscraftsoftware.my.id:443/announce
+http://tracker2.itzmx.com:6961/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 http://tracker1.itzmx.com:8080/announce
-udp://tracker.filemail.com:6969/announce
 http://mc.itscraftsoftware.my.id:8804/announce
+udp://tracker.filemail.com:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://open.publictracker.xyz:6969/announce
 http://t1.aag.moe:17715/announce
@@ -67,8 +67,8 @@ udp://tracker4.itzmx.com:2710/announce
 http://isk.richardsw.club:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
 http://tracker.auctor.tv:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 https://www.peckservers.com:9443/announce
 http://open.acgtracker.com:1096/announce
 udp://tamas3.ynh.fr:6969/announce
