@@ -33,11 +33,11 @@ udp://tracker.opentrackr.org:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
-http://tracker2.itzmx.com:6961/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://run.publictracker.xyz:6969/announce
+http://tracker2.itzmx.com:6961/announce
 udp://tracker.xor.st:6969/announce
 http://tracker.files.fm:6969/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -49,11 +49,11 @@ udp://seedpeer.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 http://tracker1.itzmx.com:8080/announce
+http://ipv6.rer.lol:6969/announce
 udp://tracker.filemail.com:6969/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 udp://bt1.archive.org:6969/announce
 udp://open.publictracker.xyz:6969/announce
-http://ipv6.rer.lol:6969/announce
 http://t1.aag.moe:17715/announce
 http://tracker.dump.cl:6969/announce
 udp://open.demonii.com:1337/announce
