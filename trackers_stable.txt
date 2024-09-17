@@ -53,8 +53,8 @@ udp://tracker.filemail.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://t1.aag.moe:17715/announce
-udp://tracker-us.silksa.co.za:6969/announce
 http://tracker.dump.cl:6969/announce
+udp://tracker-us.silksa.co.za:6969/announce
 udp://trackarr.org:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://open.demonii.com:1337/announce
