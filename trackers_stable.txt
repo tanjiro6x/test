@@ -15,6 +15,7 @@ udp://tracker.waaa.moe:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://tracker.birkenwald.de:6969/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.files.fm:6969/announce
 udp://open.demonii.com:1337/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://ipv6.rer.lol:6969/announce
@@ -30,7 +31,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://retracker.hotplug.ru:2710/announce
-http://tracker.files.fm:6969/announce
 udp://moonburrow.club:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://retracker.x2k.ru:80/announce
@@ -55,16 +55,16 @@ udp://d13bttrck.duckdns.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://t1.aag.moe:17715/announce
 udp://tk2.trackerservers.com:8080/announce
-udp://tracker.kmzs123.tk:17272/announce
 http://bvarf.tracker.sh:2086/announce
 udp://www.torrent.eu.org:451/announce
+udp://tracker.kmzs123.tk:17272/announce
 udp://run.publictracker.xyz:6969/announce
 udp://bt2.archive.org:6969/announce
 https://retracker2.x2k.ru:443/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://tracker4.itzmx.com:2710/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://tracker4.itzmx.com:2710/announce
 https://tracker.cloudit.top:443/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://u6.trakx.crim.ist:1337/announce
@@ -76,6 +76,6 @@ udp://u4.trakx.crim.ist:1337/announce
 https://tracker.bjut.jp:443/announce
 https://trackers.mlsub.net:443/announce
 udp://tracker.xor.st:6969/announce
-udp://1c.premierzal.ru:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 https://tracker1.520.jp:443/announce
+udp://1c.premierzal.ru:6969/announce
