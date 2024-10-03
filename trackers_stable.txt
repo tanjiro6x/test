@@ -28,13 +28,13 @@ http://bt.okmp3.ru:2710/announce
 udp://tracker.srv00.com:6969/announce
 udp://moonburrow.club:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://evan.im:6969/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.darkness.services:6969/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://pybittrack.retiolus.net:443/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://bt1.archive.org:6969/announce
