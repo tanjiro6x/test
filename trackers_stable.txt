@@ -43,8 +43,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://trackarr.org:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
-http://tracker.files.fm:6969/announce
 udp://bandito.byterunner.io:6969/announce
+http://tracker.files.fm:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.breizh.pm:6969/announce
