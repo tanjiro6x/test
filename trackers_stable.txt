@@ -56,12 +56,12 @@ https://pybittrack.retiolus.net:443/announce
 udp://jutone.com:6969/announce
 http://tr1.aag.moe:2095/announce
 udp://opentracker.io:6969/announce
-udp://tk2.trackerservers.com:8080/announce
 https://tracker.cloudit.top:443/announce
+udp://tk2.trackerservers.com:8080/announce
 udp://u4.trakx.crim.ist:1337/announce
 http://open.acgtracker.com:1096/announce
-udp://tracker.kmzs123.cf:17272/announce
 https://sparkle.ghostchu-services.top:443/announce
+udp://tracker.kmzs123.cf:17272/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker.files.fm:6969/announce
 http://tracker.renfei.net:8080/announce
