@@ -63,4 +63,3 @@ udp://tracker.torrust-demo.com:6969/announce
 http://open.acgtracker.com:1096/announce
 http://tracker.renfei.net:8080/announce
 https://tr2.trkb.ru:443/announce
-udp://tk2.trackerservers.com:8080/announce
