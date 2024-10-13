@@ -44,8 +44,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://tracker.fnix.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://bandito.byterunner.io:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://bandito.byterunner.io:6969/announce
 udp://tracker.cyberia.is:6969/announce
 http://tracker.bittor.pw:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
@@ -65,3 +65,4 @@ udp://opentracker.io:6969/announce
 https://tr2.trkb.ru:443/announce
 http://open.acgtracker.com:1096/announce
 http://tracker.renfei.net:8080/announce
+https://tracker.uraniumhexafluori.de:443/announce
