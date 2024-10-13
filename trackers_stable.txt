@@ -55,10 +55,10 @@ udp://www.torrent.eu.org:451/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://sparkle.ghostchu-services.top:443/announce
 https://tracker.cloudit.top:443/announce
-http://tr1.aag.moe:2095/announce
-udp://u6.trakx.crim.ist:1337/announce
-udp://jutone.com:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
+http://tr1.aag.moe:2095/announce
+udp://jutone.com:6969/announce
+udp://u6.trakx.crim.ist:1337/announce
 https://retracker.x2k.ru:443/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
