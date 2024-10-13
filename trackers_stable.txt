@@ -46,8 +46,8 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.dler.com:6969/announce
-http://tracker.bittor.pw:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
+http://tracker.bittor.pw:1337/announce
 http://bvarf.tracker.sh:2086/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.gigantino.net:6969/announce
