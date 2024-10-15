@@ -15,6 +15,10 @@ udp://tracker.waaa.moe:6969/announce
 udp://api.clasificadosrapidos.com:53/announce
 https://p2p.azu.red:443/announce
 udp://tk2v6.trackerservers.com:8080/announce
+http://tracker1.itzmx.com:8080/announce
+udp://tracker2.itzmx.com:6961/announce
+udp://tracker3.itzmx.com:6961/announce
+udp://tracker4.itzmx.com:2710/announce
 http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
 udp://moonburrow.club:6969/announce
@@ -39,11 +43,11 @@ udp://tracker.gmi.gd:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 http://ipv6.rer.lol:6969/announce
-udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.filemail.com:6969/announce
 http://tracker.bittor.pw:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
@@ -62,7 +66,7 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://jutone.com:6969/announce
 udp://opentracker.io:6969/announce
 https://tracker.pmman.tech:443/announce
+udp://retracker.lanta.me:2710/announce
 http://tracker.renfei.net:8080/announce
 https://retracker.x2k.ru:443/announce
-udp://retracker.lanta.me:2710/announce
-udp://tracker.torrust-demo.com:6969/announce
+https://tr2.trkb.ru:443/announce
