@@ -14,7 +14,6 @@ udp://trackarr.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://api.clasificadosrapidos.com:53/announce
-https://p2p.azu.red:443/announce
 udp://tk2v6.trackerservers.com:8080/announce
 http://tracker.bt4g.com:2095/announce
 http://bt.okmp3.ru:2710/announce
@@ -33,7 +32,6 @@ udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.opentrackr.org:1337/announce
-http://smurfsoft.com:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.gmi.gd:6969/announce
@@ -43,10 +41,12 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 http://ipv6.rer.lol:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
+http://smurfsoft.com:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://tracker.bittor.pw:1337/announce
+https://p2p.azu.red:443/announce
 udp://tracker.filemail.com:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 https://sparkle.ghostchu-services.top:443/announce
@@ -60,8 +60,8 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 https://tracker.cloudit.top:443/announce
 udp://jutone.com:6969/announce
-udp://opentracker.io:6969/announce
 http://tracker1.itzmx.com:8080/announce
+udp://opentracker.io:6969/announce
 udp://tracker2.itzmx.com:6961/announce
 http://tracker.renfei.net:8080/announce
 https://torrent.tracker.durukanbal.com:443/announce
