@@ -26,7 +26,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://trackarr.org:6969/announce
-udp://serpb.vpsburti.com:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
@@ -36,6 +35,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.srv00.com:6969/announce
 https://www.peckservers.com:9443/announce
 udp://martin-gebhardt.eu:25/announce
+udp://serpb.vpsburti.com:6969/announce
 https://p2p.azu.red:443/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 http://bt.okmp3.ru:2710/announce
