@@ -18,7 +18,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://moonburrow.club:6969/announce
 udp://open.demonii.com:1337/announce
 https://tracker.lilithraws.org:443/announce
-udp://tracker.0x7c0.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://seedpeer.net:6969/announce
@@ -34,6 +33,7 @@ udp://retracker.hotplug.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.srv00.com:6969/announce
 https://www.peckservers.com:9443/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://serpb.vpsburti.com:6969/announce
 https://p2p.azu.red:443/announce
