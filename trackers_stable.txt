@@ -53,8 +53,8 @@ http://bvarf.tracker.sh:2086/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 http://tracker1.itzmx.com:8080/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.gigantino.net:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 http://tr1.aag.moe:2095/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.darkness.services:6969/announce
