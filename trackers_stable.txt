@@ -1,5 +1,4 @@
 udp://explodie.org:6969/announce
-http://tracker.bt4g.com:2095/announce
 udp://z.mercax.com:53/announce
 https://tracker.tamersunion.org:443/announce
 https://trackers.mlsub.net:443/announce
@@ -14,6 +13,7 @@ https://tracker.uraniumhexafluori.de:443/announce
 udp://api.clasificadosrapidos.com:53/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 udp://exodus.desync.com:6969/announce
+http://tracker.bt4g.com:2095/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://moonburrow.club:6969/announce
 udp://open.demonii.com:1337/announce
