@@ -33,10 +33,10 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.srv00.com:6969/announce
 udp://moonburrow.club:6969/announce
 https://www.peckservers.com:9443/announce
+udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.dler.com:6969/announce
 http://bt.okmp3.ru:2710/announce
-udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
