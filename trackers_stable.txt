@@ -54,8 +54,8 @@ udp://www.torrent.eu.org:451/announce
 http://bvarf.tracker.sh:2086/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://t.overflow.biz:6969/announce
-http://tr1.aag.moe:2095/announce
 udp://ismaarino.com:1234/announce
+http://tr1.aag.moe:2095/announce
 udp://tracker.gigantino.net:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://tracker.darkness.services:6969/announce
