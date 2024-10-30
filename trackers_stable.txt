@@ -54,8 +54,8 @@ http://tracker1.itzmx.com:8080/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://bvarf.tracker.sh:2086/announce
-udp://www.torrent.eu.org:451/announce
 udp://t.overflow.biz:6969/announce
+udp://www.torrent.eu.org:451/announce
 http://tr1.aag.moe:2095/announce
 udp://tracker.gigantino.net:6969/announce
 http://tracker.vraphim.com:6969/announce
