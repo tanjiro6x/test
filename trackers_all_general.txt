@@ -37,6 +37,7 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.ipfsscan.io:443/announce
+https://tracker.leechshield.link:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.tamersunion.org:443/announce
@@ -114,6 +115,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.org:80/announce
+udp://tracker4.leechshield.link:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
