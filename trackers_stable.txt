@@ -14,7 +14,6 @@ http://taciturn-shadow.spb.ru:6969/announce
 udp://api.clasificadosrapidos.com:53/announce
 http://saltwood.top:6969/announce
 https://tracker.leechshield.link:443/announce
-udp://bt.rer.lol:2710/announce
 udp://exodus.desync.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.lilithraws.org:443/announce
@@ -62,10 +61,10 @@ udp://tracker.gigantino.net:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://tracker.darkness.services:6969/announce
 http://tracker.renfei.net:8080/announce
-udp://tracker4.leechshield.link:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
-udp://tracker-udp.gbitt.info:80/announce
+udp://tracker4.leechshield.link:6969/announce
 udp://opentracker.io:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://jutone.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 https://tracker.pmman.tech:443/announce
