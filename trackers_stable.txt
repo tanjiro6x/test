@@ -58,8 +58,8 @@ udp://t.overflow.biz:6969/announce
 http://tr1.aag.moe:2095/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.gigantino.net:6969/announce
-https://tracker.cloudit.top:443/announce
 udp://tracker.darkness.services:6969/announce
+https://tracker.cloudit.top:443/announce
 http://tracker.renfei.net:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://opentracker.io:6969/announce
