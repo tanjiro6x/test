@@ -15,7 +15,6 @@ udp://tr4ck3r.duckdns.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://api.clasificadosrapidos.com:53/announce
 http://saltwood.top:6969/announce
-https://tracker.leechshield.link:443/announce
 https://tracker.lilithraws.org:443/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://odd-hd.fr:6969/announce
@@ -35,6 +34,7 @@ https://www.peckservers.com:9443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
+https://tracker.leechshield.link:443/announce
 udp://tracker.dler.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://bt.okmp3.ru:2710/announce
