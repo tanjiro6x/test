@@ -24,6 +24,7 @@ udp://tracker.gmi.gd:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://trackarr.org:6969/announce
 https://p2p.azu.red:443/announce
+https://tracker.leechshield.link:443/announce
 udp://open.stealth.si:80/announce
 udp://exodus.desync.com:6969/announce
 http://tracker.bt4g.com:2095/announce
@@ -34,7 +35,6 @@ https://www.peckservers.com:9443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://tracker.dler.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://bt.okmp3.ru:2710/announce
