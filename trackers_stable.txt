@@ -65,7 +65,8 @@ udp://opentracker.io:6969/announce
 udp://tracker4.leechshield.link:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://jutone.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
-https://tracker.pmman.tech:443/announce
+udp://jutone.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
+https://tracker.pmman.tech:443/announce
+udp://7p41a8967.wicp.vip:22222/announce
