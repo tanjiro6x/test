@@ -13,7 +13,6 @@ https://tracker.gcrenwp.top:443/announce
 udp://trackarr.org:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
-udp://api.clasificadosrapidos.com:53/announce
 https://tracker.lilithraws.org:443/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://odd-hd.fr:6969/announce
@@ -38,19 +37,20 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 https://p2p.azu.red:443/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://p2p.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
+udp://api.clasificadosrapidos.com:53/announce
+udp://p2p.publictracker.xyz:6969/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.filemail.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://run.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://saltwood.top:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.breizh.pm:6969/announce
-udp://run.publictracker.xyz:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://retracker.lanta.me:2710/announce
 https://sparkle.ghostchu-services.top:443/announce
@@ -69,3 +69,4 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://jutone.com:6969/announce
 udp://open.dstud.io:6969/announce
+http://kiryuu-test.mywaifu.best:6969/announce
