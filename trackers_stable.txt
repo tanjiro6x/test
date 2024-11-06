@@ -49,8 +49,8 @@ udp://tracker.0x7c0.com:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://p2p.publictracker.xyz:6969/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://tk4.leechshield.link:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://tracker.breizh.pm:6969/announce
 http://saltwood.top:6969/announce
