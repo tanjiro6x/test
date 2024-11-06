@@ -27,6 +27,7 @@ udp://tracker.gmi.gd:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://exodus.desync.com:6969/announce
+udp://tracker.filemail.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.srv00.com:6969/announce
@@ -37,7 +38,6 @@ http://canardscitrons.nohost.me:6969/announce
 udp://bandito.byterunner.io:6969/announce
 https://p2p.azu.red:443/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker.filemail.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
@@ -50,18 +50,18 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+udp://tk4.leechshield.link:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://tracker.breizh.pm:6969/announce
 http://saltwood.top:6969/announce
-udp://tk4.leechshield.link:6969/announce
 udp://retracker.lanta.me:2710/announce
 https://sparkle.ghostchu-services.top:443/announce
-udp://tracker-us.silksa.co.za:6969/announce
 http://bvarf.tracker.sh:2086/announce
+udp://tracker-us.silksa.co.za:6969/announce
 http://tr1.aag.moe:2095/announce
 udp://t.overflow.biz:6969/announce
-udp://tracker.gigantino.net:6969/announce
 https://tracker.cloudit.top:443/announce
+udp://tracker.gigantino.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.renfei.net:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
@@ -69,7 +69,7 @@ udp://opentracker.io:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://open.dstud.io:6969/announce
 udp://jutone.com:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker4.leechshield.link:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
