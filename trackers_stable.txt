@@ -65,8 +65,8 @@ udp://www.torrent.eu.org:451/announce
 udp://tk2v6.trackerservers.com:8080/announce
 http://tracker.renfei.net:8080/announce
 udp://open.dstud.io:6969/announce
-http://taciturn-shadow.spb.ru:6969/announce
 udp://opentracker.io:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 udp://retracker.hotplug.ru:2710/announce
