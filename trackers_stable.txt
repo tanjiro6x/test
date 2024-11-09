@@ -49,8 +49,8 @@ udp://tracker.filemail.com:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.0x7c0.com:6969/announce
-http://tr1.aag.moe:2095/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+http://tr1.aag.moe:2095/announce
 udp://tk4.leechshield.link:6969/announce
 udp://t.overflow.biz:6969/announce
 https://sparkle.ghostchu-services.top:443/announce
@@ -74,4 +74,3 @@ udp://jutone.com:6969/announce
 https://api.ipv4online.uk:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
-udp://tracker.darkness.services:6969/announce
