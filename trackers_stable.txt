@@ -55,8 +55,8 @@ https://sparkle.ghostchu-services.top:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://tr1.aag.moe:2095/announce
-udp://tk4.leechshield.link:6969/announce
 udp://retracker.lanta.me:2710/announce
+udp://tk4.leechshield.link:6969/announce
 udp://tracker.gigantino.net:6969/announce
 http://saltwood.top:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
@@ -74,3 +74,4 @@ udp://tracker-udp.gbitt.info:80/announce
 https://api.ipv4online.uk:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
+udp://tracker.qu.ax:6969/announce
