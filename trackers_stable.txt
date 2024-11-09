@@ -56,8 +56,8 @@ https://sparkle.ghostchu-services.top:443/announce
 http://bvarf.tracker.sh:2086/announce
 udp://t.overflow.biz:6969/announce
 udp://retracker.lanta.me:2710/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 http://saltwood.top:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 udp://open.dstud.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
 https://tracker.cloudit.top:443/announce
