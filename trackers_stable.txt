@@ -26,7 +26,6 @@ udp://tracker.fnix.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.deadorbit.nl:6969/announce
-udp://tracker.gmi.gd:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 https://p2p.azu.red:443/announce
 http://tracker.bt4g.com:2095/announce
@@ -34,6 +33,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.srv00.com:6969/announce
 udp://moonburrow.club:6969/announce
 udp://seedpeer.net:6969/announce
+udp://tracker.gmi.gd:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
@@ -69,8 +69,8 @@ udp://opentracker.io:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
 http://taciturn-shadow.spb.ru:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://jutone.com:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 https://api.ipv4online.uk:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
