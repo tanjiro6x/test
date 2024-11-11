@@ -70,6 +70,7 @@ http://wepzone.net:6969/announce
 http://www.genesis-sp.org:2710/announce
 http://www.torrentsnipe.info:2701/announce
 https://api.ipv4online.uk:443/announce
+https://mathkangaroo.jp:443/announce
 https://p2p.azu.red:443/announce
 https://sparkle.ghostchu-services.top:443/announce
 https://tr.nyacat.pw:443/announce
