@@ -75,4 +75,3 @@ udp://tk4.leechshield.link:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
 https://mathkangaroo.jp:443/announce
-https://tracker.uraniumhexafluori.de:443/announce
