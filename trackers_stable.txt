@@ -51,8 +51,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://t.overflow.biz:6969/announce
-http://bvarf.tracker.sh:2086/announce
 https://sparkle.ghostchu-services.top:443/announce
+http://bvarf.tracker.sh:2086/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://saltwood.top:6969/announce
