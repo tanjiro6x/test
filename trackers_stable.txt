@@ -74,5 +74,5 @@ udp://tk4.leechshield.link:6969/announce
 https://api.ipv4online.uk:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
-http://tr1.aag.moe:2095/announce
 https://tracker.uraniumhexafluori.de:443/announce
+http://tr1.aag.moe:2095/announce
