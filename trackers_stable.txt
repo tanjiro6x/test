@@ -74,3 +74,4 @@ udp://tk4.leechshield.link:6969/announce
 https://tracker.bjut.jp:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://mathkangaroo.jp:443/announce
+udp://7p41a8967.wicp.vip:22222/announce
