@@ -3,6 +3,7 @@ udp://explodie.org:6969/announce
 udp://open.stealth.si:80/announce
 udp://z.mercax.com:53/announce
 https://tracker.tamersunion.org:443/announce
+https://tracker.lilithraws.org:443/announce
 https://www.peckservers.com:9443/announce
 https://trackers.mlsub.net:443/announce
 udp://tracker.fnix.net:6969/announce
@@ -18,7 +19,6 @@ http://tracker.bt4g.com:2095/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://moonburrow.club:6969/announce
 udp://open.demonii.com:1337/announce
-https://tracker.lilithraws.org:443/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://odd-hd.fr:6969/announce
@@ -60,10 +60,10 @@ udp://retracker.lanta.me:2710/announce
 udp://tk2v6.trackerservers.com:8080/announce
 https://tracker.cloudit.top:443/announce
 http://kiryuu-test.mywaifu.best:6969/announce
-http://canardscitrons.nohost.me:6969/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 udp://opentracker.io:6969/announce
 http://tracker.renfei.net:8080/announce
+http://canardscitrons.nohost.me:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 udp://www.torrent.eu.org:451/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
