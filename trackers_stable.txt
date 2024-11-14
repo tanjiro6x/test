@@ -52,9 +52,9 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://t.overflow.biz:6969/announce
 https://sparkle.ghostchu-services.top:443/announce
-udp://moonburrow.club:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tracker.qu.ax:6969/announce
+udp://moonburrow.club:6969/announce
 http://saltwood.top:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
