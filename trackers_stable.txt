@@ -32,12 +32,12 @@ udp://tracker.fnix.net:6969/announce
 udp://seedpeer.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.srv00.com:6969/announce
-udp://run.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tk.leechshield.link:80/announce
 http://bt.okmp3.ru:2710/announce
+udp://run.publictracker.xyz:6969/announce
 udp://open.dstud.io:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://ismaarino.com:1234/announce
@@ -68,6 +68,6 @@ https://api.ipv4online.uk:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
 https://mathkangaroo.jp:443/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://7p41a8967.wicp.vip:22222/announce
+udp://tracker-udp.gbitt.info:80/announce
