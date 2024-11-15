@@ -36,12 +36,12 @@ udp://run.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 http://tracker.beeimg.com:6969/announce
+http://tk.leechshield.link:80/announce
 http://bt.okmp3.ru:2710/announce
 udp://open.dstud.io:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.gigantino.net:6969/announce
-http://tk.leechshield.link:80/announce
 http://tracker1.itzmx.com:8080/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
@@ -59,8 +59,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
-https://tracker.cloudit.top:443/announce
 udp://opentracker.io:6969/announce
+https://tracker.cloudit.top:443/announce
 http://tracker.renfei.net:8080/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker.lanta.me:2710/announce
