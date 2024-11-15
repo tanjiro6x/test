@@ -48,9 +48,9 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.filemail.com:6969/announce
-http://ipv6.rer.lol:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://t.overflow.biz:6969/announce
+http://ipv6.rer.lol:6969/announce
 https://sparkle.ghostchu-services.top:443/announce
 udp://u6.trakx.crim.ist:1337/announce
 http://bvarf.tracker.sh:2086/announce
