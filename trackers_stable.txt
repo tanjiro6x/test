@@ -6,6 +6,7 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.lilithraws.org:443/announce
 https://www.peckservers.com:9443/announce
 https://trackers.mlsub.net:443/announce
+udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://amigacity.xyz:6969/announce
 https://tracker.gcrenwp.top:443/announce
@@ -20,19 +21,18 @@ http://tracker.bt4g.com:2095/announce
 udp://tracker.breizh.pm:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://odd-hd.fr:6969/announce
-udp://evan.im:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://serpb.vpsburti.com:6969/announce
+udp://tracker.gigantino.net:6969/announce
 https://tracker.leechshield.link:443/announce
 http://tk.leechshield.link:80/announce
 http://tracker.vraphim.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
-udp://tracker.gigantino.net:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.srv00.com:6969/announce
@@ -58,8 +58,8 @@ http://saltwood.top:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
-udp://opentracker.io:6969/announce
 http://tracker.bittor.pw:1337/announce
+udp://opentracker.io:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.cloudit.top:443/announce
@@ -70,3 +70,4 @@ https://tracker.bjut.jp:443/announce
 udp://open.dstud.io:6969/announce
 https://mathkangaroo.jp:443/announce
 http://open.acgtracker.com:1096/announce
+https://tracker.ipfsscan.io:443/announce
