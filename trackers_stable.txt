@@ -69,5 +69,5 @@ udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
 udp://open.dstud.io:6969/announce
 https://mathkangaroo.jp:443/announce
-http://open.acgtracker.com:1096/announce
 https://tracker.ipfsscan.io:443/announce
+http://open.acgtracker.com:1096/announce
