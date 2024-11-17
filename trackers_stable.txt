@@ -61,9 +61,9 @@ http://tracker.bittor.pw:1337/announce
 http://saltwood.top:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
+https://tracker.ipfsscan.io:443/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://opentracker.io:6969/announce
-https://tracker.ipfsscan.io:443/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.cloudit.top:443/announce
