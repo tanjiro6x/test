@@ -25,13 +25,13 @@ udp://tracker.breizh.pm:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
+https://tracker.leechshield.link:443/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://tracker.gigantino.net:6969/announce
-https://tracker.leechshield.link:443/announce
 http://tk.leechshield.link:80/announce
 http://tracker.vraphim.com:6969/announce
 udp://tracker.fnix.net:6969/announce
