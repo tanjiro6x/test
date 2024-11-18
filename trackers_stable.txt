@@ -36,11 +36,11 @@ http://tk.leechshield.link:80/announce
 http://tracker.vraphim.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://bandito.byterunner.io:6969/announce
+http://tracker.bittor.pw:1337/announce
 http://public.tracker.vraphim.com:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.fnix.net:6969/announce
-http://tracker.bittor.pw:1337/announce
 udp://tracker.tryhackx.org:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://tracker.0x7c0.com:6969/announce
