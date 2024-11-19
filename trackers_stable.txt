@@ -52,9 +52,9 @@ udp://ismaarino.com:1234/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://bt.okmp3.ru:2710/announce
+http://kiryuu-test.mywaifu.best:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.qu.ax:6969/announce
-http://kiryuu-test.mywaifu.best:6969/announce
 https://sparkle.ghostchu-services.top:443/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://bvarf.tracker.sh:2086/announce
