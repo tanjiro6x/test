@@ -54,12 +54,12 @@ udp://tracker.gmi.gd:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.qu.ax:6969/announce
+http://kiryuu-test.mywaifu.best:6969/announce
 https://sparkle.ghostchu-services.top:443/announce
 udp://p2p.publictracker.xyz:6969/announce
-http://kiryuu-test.mywaifu.best:6969/announce
 http://bvarf.tracker.sh:2086/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 https://pybittrack.retiolus.net:443/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 http://saltwood.top:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://www.torrent.eu.org:451/announce
@@ -74,3 +74,4 @@ udp://tk1.trackerservers.com:8080/announce
 https://mathkangaroo.jp:443/announce
 http://open.acgtracker.com:1096/announce
 udp://open.dstud.io:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
