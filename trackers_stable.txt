@@ -27,7 +27,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://open.stealth.si:80/announce
-udp://tracker.dler.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 udp://ns1.monolithindustries.com:6969/announce
@@ -39,10 +38,11 @@ udp://bandito.byterunner.io:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://public.tracker.vraphim.com:6969/announce
 http://tracker.beeimg.com:6969/announce
+udp://tracker.dler.com:6969/announce
 udp://tracker.srv00.com:6969/announce
+udp://u4.trakx.crim.ist:1337/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://u4.trakx.crim.ist:1337/announce
 https://tracker.ipfsscan.io:443/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://seedpeer.net:6969/announce
@@ -62,8 +62,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 http://saltwood.top:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
-udp://www.torrent.eu.org:451/announce
 http://ipv4.rer.lol:2710/announce
+udp://www.torrent.eu.org:451/announce
 http://tracker.renfei.net:8080/announce
 udp://opentracker.io:6969/announce
 https://tracker.cloudit.top:443/announce
