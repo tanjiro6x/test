@@ -24,7 +24,6 @@ udp://tracker.breizh.pm:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://serpb.vpsburti.com:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
@@ -32,6 +31,7 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.gigantino.net:6969/announce
+https://tracker.leechshield.link:443/announce
 http://tracker.vraphim.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.bittor.pw:1337/announce
@@ -63,14 +63,14 @@ http://saltwood.top:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker.renfei.net:8080/announce
-udp://opentracker.io:6969/announce
 https://tracker.cloudit.top:443/announce
+udp://opentracker.io:6969/announce
 http://tracker2.itzmx.com:6961/announce
 https://pybittrack.retiolus.net:443/announce
 udp://retracker.lanta.me:2710/announce
 https://api.ipv4online.uk:443/announce
-https://tracker.bjut.jp:443/announce
 http://open.acgtracker.com:1096/announce
+https://tracker.bjut.jp:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://mathkangaroo.jp:443/announce
 udp://open.dstud.io:6969/announce
