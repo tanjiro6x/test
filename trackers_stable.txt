@@ -51,8 +51,8 @@ udp://ismaarino.com:1234/announce
 http://tracker.bittor.pw:1337/announce
 udp://tracker.dler.com:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-udp://tracker.gmi.gd:6969/announce
 http://bt.okmp3.ru:2710/announce
+udp://tracker.gmi.gd:6969/announce
 https://pybittrack.retiolus.net:443/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.qu.ax:6969/announce
@@ -62,9 +62,9 @@ http://bvarf.tracker.sh:2086/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://saltwood.top:6969/announce
 http://tracker2.itzmx.com:6961/announce
-udp://tk2v6.trackerservers.com:8080/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.cloudit.top:443/announce
+udp://tk2v6.trackerservers.com:8080/announce
 https://tracker.renfei.net:8080/announce
 udp://retracker.lanta.me:2710/announce
 udp://opentracker.io:6969/announce
@@ -72,6 +72,6 @@ https://api.ipv4online.uk:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
 https://mathkangaroo.jp:443/announce
-udp://7p41a8967.wicp.vip:22222/announce
 http://open.acgtracker.com:1096/announce
+udp://7p41a8967.wicp.vip:22222/announce
 udp://open.dstud.io:6969/announce
