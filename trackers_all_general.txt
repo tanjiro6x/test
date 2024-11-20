@@ -109,6 +109,7 @@ udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
+udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://open.demonii.com:1337/announce
