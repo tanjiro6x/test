@@ -36,9 +36,9 @@ udp://serpb.vpsburti.com:6969/announce
 udp://tracker.gigantino.net:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.vraphim.com:6969/announce
-https://www.peckservers.com:9443/announce
 udp://bandito.byterunner.io:6969/announce
 http://public.tracker.vraphim.com:6969/announce
+https://www.peckservers.com:9443/announce
 udp://tracker.fnix.net:6969/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.srv00.com:6969/announce
@@ -48,9 +48,9 @@ https://tracker.ipfsscan.io:443/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://seedpeer.net:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+https://pybittrack.retiolus.net:443/announce
 udp://tracker.dler.com:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-https://pybittrack.retiolus.net:443/announce
 http://tracker.bittor.pw:1337/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.gmi.gd:6969/announce
