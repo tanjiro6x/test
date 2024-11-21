@@ -48,7 +48,6 @@ http://tracker.lintk.me:2710/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
-http://tracker.peckservers.com:9000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.sbsub.com:2710/announce
@@ -136,6 +135,7 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.darkness.services:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
@@ -145,7 +145,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.kmzs123.cf:17272/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.tk:17272/announce
@@ -158,6 +157,7 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
