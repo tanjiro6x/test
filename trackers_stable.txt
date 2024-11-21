@@ -41,13 +41,13 @@ https://pybittrack.retiolus.net:443/announce
 udp://bandito.byterunner.io:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://seedpeer.net:6969/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.srv00.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://seedpeer.net:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.bittor.pw:1337/announce
@@ -61,8 +61,8 @@ udp://p2p.publictracker.xyz:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://tracker2.itzmx.com:6961/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://www.torrent.eu.org:451/announce
 udp://tracker.kmzs123.cf:17272/announce
+udp://www.torrent.eu.org:451/announce
 http://saltwood.top:6969/announce
 udp://tracker.kmzs123.tk:17272/announce
 udp://tk2v6.trackerservers.com:8080/announce
