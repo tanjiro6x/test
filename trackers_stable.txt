@@ -61,9 +61,9 @@ udp://p2p.publictracker.xyz:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://tracker2.itzmx.com:6961/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://tracker.kmzs123.cf:17272/announce
 udp://www.torrent.eu.org:451/announce
 http://saltwood.top:6969/announce
+udp://tracker.kmzs123.cf:17272/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://tracker.kmzs123.tk:17272/announce
 https://tracker.cloudit.top:443/announce
@@ -76,3 +76,4 @@ udp://tk1.trackerservers.com:8080/announce
 https://mathkangaroo.jp:443/announce
 http://open.acgtracker.com:1096/announce
 udp://open.dstud.io:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
