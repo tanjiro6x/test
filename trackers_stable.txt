@@ -20,6 +20,7 @@ http://tracker.renfei.net:8080/announce
 http://ipv4.rer.lol:2710/announce
 udp://www.torrent.eu.org:451/announce
 http://tracker3.itzmx.com:6961/announce
+http://tracker4.itzmx.com:2710/announce
 udp://explodie.org:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://serpb.vpsburti.com:6969/announce
