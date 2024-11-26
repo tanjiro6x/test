@@ -120,7 +120,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://t.overflow.biz:6969/announce
-udp://tk1.trackerservers.com:8080/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
