@@ -52,8 +52,8 @@ udp://seedpeer.net:6969/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://tracker.dler.com:6969/announce
 http://tracker2.itzmx.com:6961/announce
-udp://run.publictracker.xyz:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://run.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 https://sparkle.ghostchu-services.top:443/announce
 udp://tracker.filemail.com:6969/announce
