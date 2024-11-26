@@ -69,6 +69,7 @@ https://mathkangaroo.jp:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://sparkle.ghostchu-services.top:443/announce
 https://t.213891.xyz:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
