@@ -21,7 +21,6 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 udp://explodie.org:6969/announce
 udp://martin-gebhardt.eu:25/announce
-udp://serpb.vpsburti.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -37,6 +36,7 @@ http://tracker.vraphim.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://evan.im:6969/announce
+udp://serpb.vpsburti.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.fnix.net:6969/announce
