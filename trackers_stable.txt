@@ -38,13 +38,13 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.gigantino.net:6969/announce
-https://tracker.leechshield.link:443/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker.srv00.com:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://ismaarino.com:1234/announce
+https://tracker.leechshield.link:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker2.itzmx.com:6961/announce
 udp://tracker.breizh.pm:6969/announce
@@ -76,6 +76,6 @@ udp://opentracker.io:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 https://retracker.x2k.ru:443/announce
 http://kiryuu-test.mywaifu.best:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
-udp://open.dstud.io:6969/announce
 https://tr2.trkb.ru:443/announce
+udp://open.dstud.io:6969/announce
+https://torrent.tracker.durukanbal.com:443/announce
