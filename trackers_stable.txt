@@ -20,7 +20,6 @@ http://tracker1.itzmx.com:8080/announce
 https://t.213891.xyz:443/announce
 http://tracker.renfei.net:8080/announce
 http://tracker3.itzmx.com:6961/announce
-http://tracker4.itzmx.com:2710/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 https://tracker.dev-null.rocks:443/announce
 udp://exodus.desync.com:6969/announce
@@ -48,6 +47,7 @@ udp://ns1.monolithindustries.com:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
+http://tracker4.itzmx.com:2710/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.dler.com:6969/announce
