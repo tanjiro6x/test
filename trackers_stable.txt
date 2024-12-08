@@ -79,4 +79,3 @@ http://kiryuu-test.mywaifu.best:6969/announce
 http://open.acgtracker.com:1096/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tracker.valete.tf:9999/announce
-http://ipv4announce.sktorrent.eu:6969/announce
