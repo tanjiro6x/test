@@ -44,9 +44,9 @@ udp://tracker.gigantino.net:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 https://tracker.dev-null.rocks:443/announce
 udp://tracker.breizh.pm:6969/announce
-udp://open.dstud.io:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.dler.com:6969/announce
+udp://open.dstud.io:6969/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
@@ -66,11 +66,11 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://open.demonii.com:1337/announce
 https://tracker.bjut.jp:443/announce
 https://mathkangaroo.jp:443/announce
-udp://tracker.kmzs123.tk:17272/announce
 https://api.ipv4online.uk:443/announce
+udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.gmi.gd:6969/announce
-http://tracker.bittor.pw:1337/announce
 udp://tracker.cyberia.is:6969/announce
+http://tracker.bittor.pw:1337/announce
 udp://opentracker.io:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 https://retracker.x2k.ru:443/announce
