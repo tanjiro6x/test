@@ -69,5 +69,5 @@ https://api.ipv4online.uk:443/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 https://retracker.x2k.ru:443/announce
-udp://rt.tace.ru:6969/announce
 https://tr2.trkb.ru:443/announce
+udp://rt.tace.ru:6969/announce
