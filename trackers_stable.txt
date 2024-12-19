@@ -62,8 +62,8 @@ udp://open.demonii.com:1337/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.kmzs123.tk:17272/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.qu.ax:6969/announce
 https://tracker.bjut.jp:443/announce
 https://mathkangaroo.jp:443/announce
 https://api.ipv4online.uk:443/announce
