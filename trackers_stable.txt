@@ -74,5 +74,6 @@ udp://tracker-us.silksa.co.za:6969/announce
 udp://betelgeuse.freeddns.org:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://retracker.x2k.ru:443/announce
-https://tr2.trkb.ru:443/announce
 udp://tracker.deadorbit.nl:6969/announce
+https://tr2.trkb.ru:443/announce
+udp://r.l5.ca:6969/announce
