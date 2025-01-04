@@ -65,8 +65,8 @@ udp://cq.kmzs123.cn:17272/announce
 https://tracker.cloudit.top:443/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://betelgeuse.freeddns.org:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.darkness.services:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
