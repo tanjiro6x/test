@@ -51,13 +51,13 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 https://tracker.lilithraws.org:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+https://tracker.gcrenwp.top:443/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-https://tracker.gcrenwp.top:443/announce
 udp://tr.movian.eu:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://open.dstud.io:6969/announce
@@ -69,8 +69,8 @@ udp://www.torrent.eu.org:451/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
-http://tracker-zhuqiy.dgj055.icu:80/announce
 http://ipv6.rer.lol:6969/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 https://tr.zukizuki.org:443/announce
 udp://opentracker.io:6969/announce
 udp://bt.ktrackers.com:6666/announce
