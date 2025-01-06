@@ -46,8 +46,8 @@ udp://seedpeer.net:6969/announce
 http://tr1.aag.moe:2095/announce
 http://ipv4.rer.lol:2710/announce
 http://tracker.vraphim.com:6969/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 https://tracker.lilithraws.org:443/announce
@@ -56,8 +56,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://ns1.monolithindustries.com:6969/announce
-udp://tracker.dler.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.dler.com:6969/announce
 udp://tr.movian.eu:6969/announce
 https://tracker.cloudit.top:443/announce
 http://tracker.bittor.pw:1337/announce
@@ -77,5 +77,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.deadorbit.nl:6969/announce
 https://retracker.x2k.ru:443/announce
 udp://r.l5.ca:6969/announce
+http://echostar.ddnsfree.com:8080/announce
 https://tr2.trkb.ru:443/announce
 udp://cq.kmzs123.cn:17272/announce
