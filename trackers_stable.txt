@@ -38,10 +38,10 @@ udp://t.overflow.biz:6969/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://serpb.vpsburti.com:6969/announce
 https://tracker.leechshield.link:443/announce
 http://tracker2.itzmx.com:6961/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-udp://serpb.vpsburti.com:6969/announce
 udp://seedpeer.net:6969/announce
 http://tr1.aag.moe:2095/announce
 http://ipv4.rer.lol:2710/announce
@@ -64,8 +64,8 @@ https://tracker.cloudit.top:443/announce
 udp://open.dstud.io:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker.0x7c0.com:6969/announce
 http://ipv6.rer.lol:6969/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://tracker.draatman.uk:6969/announce
