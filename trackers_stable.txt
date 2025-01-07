@@ -10,6 +10,7 @@ udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
+udp://tracker.deadorbit.nl:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://trackarr.org:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -24,7 +25,6 @@ udp://udp.tracker.projectk.org:23333/announce
 https://tr.nyacat.pw:443/announce
 udp://wepzone.net:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://tracker.deadorbit.nl:6969/announce
 https://tracker.gcrenwp.top:443/announce
 http://tracker1.itzmx.com:8080/announce
 https://t.213891.xyz:443/announce
@@ -67,17 +67,17 @@ udp://tracker.darkness.services:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://open.dstud.io:6969/announce
 udp://www.torrent.eu.org:451/announce
+https://tr.zukizuki.org:443/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
-https://tr.zukizuki.org:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://opentracker.io:6969/announce
 udp://tracker.draatman.uk:6969/announce
-udp://tracker.gmi.gd:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
+udp://tracker.gmi.gd:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
 https://retracker.x2k.ru:443/announce
 https://tr2.trkb.ru:443/announce
 udp://r.l5.ca:6969/announce
-udp://cq.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.tk:17272/announce
+udp://cq.kmzs123.cn:17272/announce
