@@ -61,8 +61,8 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
-udp://tr.movian.eu:6969/announce
 http://tracker.bittor.pw:1337/announce
+udp://tr.movian.eu:6969/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.darkness.services:6969/announce
@@ -74,8 +74,8 @@ udp://mikrotik2.draatman.net:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://opentracker.io:6969/announce
 udp://tracker.gmi.gd:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://tr2.trkb.ru:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.draatman.uk:6969/announce
 udp://cq.kmzs123.cn:17272/announce
 udp://r.l5.ca:6969/announce
