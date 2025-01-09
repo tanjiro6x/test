@@ -59,8 +59,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.dler.com:6969/announce
-udp://ns1.monolithindustries.com:6969/announce
 udp://r.l5.ca:6969/announce
+udp://ns1.monolithindustries.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tr.movian.eu:6969/announce
@@ -76,8 +76,8 @@ udp://opentracker.io:6969/announce
 udp://tracker.gmi.gd:6969/announce
 https://tr2.trkb.ru:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://tracker.bittor.pw:1337/announce
 https://retracker.x2k.ru:443/announce
+http://tracker.bittor.pw:1337/announce
 udp://cq.kmzs123.cn:17272/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tracker.kmzs123.tk:17272/announce
