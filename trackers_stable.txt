@@ -63,7 +63,6 @@ udp://tracker.dler.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
-https://t.213891.xyz:443/announce
 https://tracker.cloudit.top:443/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.darkness.services:6969/announce
