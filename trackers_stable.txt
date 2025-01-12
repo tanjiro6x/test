@@ -38,12 +38,12 @@ udp://open.demonii.com:1337/announce
 udp://odd-hd.fr:6969/announce
 udp://retracker.lanta.me:2710/announce
 http://tracker1.itzmx.com:8080/announce
-udp://bt.ktrackers.com:6666/announce
 http://tracker4.itzmx.com:2710/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 http://tracker2.itzmx.com:6961/announce
+udp://bt.ktrackers.com:6666/announce
+udp://t.overflow.biz:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 http://ipv4.rer.lol:2710/announce
 http://tracker3.itzmx.com:6961/announce
@@ -73,4 +73,3 @@ udp://opentracker.io:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 https://tr2.trkb.ru:443/announce
 https://tracker.cloudit.top:443/announce
-https://retracker.x2k.ru:443/announce
