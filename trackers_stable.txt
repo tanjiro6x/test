@@ -17,7 +17,6 @@ http://tracker.renfei.net:8080/announce
 http://fleira.no:6969/announce
 https://tr.nyacat.pw:443/announce
 https://tracker.nanoha.org:443/announce
-https://bt2.080609.xyz:443/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.gcrenwp.top:443/announce
 udp://ismaarino.com:1234/announce
