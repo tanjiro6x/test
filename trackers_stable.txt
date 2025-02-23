@@ -53,3 +53,4 @@ udp://evan.im:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.kmzs123.cn:17272/announce
 https://tracker.wsaoa.eu.org:443/announce
+udp://tracker.kmzs123.top:17272/announce
