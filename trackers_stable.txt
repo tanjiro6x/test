@@ -24,9 +24,9 @@ udp://tracker.gigantino.net:6969/announce
 https://tr.zukizuki.org:443/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.opentrackr.org:1337/announce
-http://tracker.netmap.top:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://martin-gebhardt.eu:25/announce
+http://tracker.netmap.top:6969/announce
 udp://p4p.arenabg.com:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.srv00.com:6969/announce
@@ -49,7 +49,7 @@ https://tracker.lilithraws.org:443/announce
 udp://evan.im:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://opentracker.io:6969/announce
-udp://t.overflow.biz:6969/announce
 https://retracker.x2k.ru:443/announce
+udp://t.overflow.biz:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
