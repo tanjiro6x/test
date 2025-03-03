@@ -51,5 +51,6 @@ https://retracker.x2k.ru:443/announce
 udp://bt.ktrackers.com:6666/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.filemail.com:6969/announce
 udp://evan.im:6969/announce
+udp://tracker.filemail.com:6969/announce
+udp://tr3.ysagin.top:2715/announce
