@@ -16,6 +16,7 @@ udp://open.demonii.com:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
+udp://tracker.kmzs123.cn:17272/announce
 http://bt.okmp3.ru:2710/announce
 https://tr.zukizuki.org:443/announce
 udp://tracker.valete.tf:9999/announce
@@ -24,7 +25,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.gigantino.net:6969/announce
-udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.srv00.com:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
