@@ -31,8 +31,8 @@ udp://tracker.0x7c0.com:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://open.stealth.si:80/announce
-udp://u4.trakx.crim.ist:1337/announce
 udp://tracker.dler.com:6969/announce
+udp://u4.trakx.crim.ist:1337/announce
 http://0123456789nonexistent.com:80/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://tracker.tryhackx.org:6969/announce
