@@ -3,6 +3,7 @@ udp://tracker.cyberia.is:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://open.demonii.com:1337/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://evan.im:6969/announce
 https://tracker.bjut.jp:443/announce
 https://tr.zukizuki.org:443/announce
 udp://tracker.valete.tf:9999/announce
@@ -19,7 +20,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.fnix.net:6969/announce
-udp://evan.im:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://ismaarino.com:1234/announce
@@ -41,10 +41,10 @@ udp://tracker.srv00.com:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.tryhackx.org:6969/announce
-udp://tracker.kmzs123.top:17272/announce
 udp://tracker.nitrix.me:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.kmzs123.top:17272/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.zhuqiy.top:443/announce
 http://ipv6.rer.lol:6969/announce
@@ -56,5 +56,4 @@ http://torrent.hificode.in:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://4.tracker.devnak.win:6969/announce
 http://6.tracker.devnak.win:6969/announce
-udp://t.overflow.biz:6969/announce
 https://tracker.ghostchu-services.top:443/announce
