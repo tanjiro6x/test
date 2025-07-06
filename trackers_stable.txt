@@ -33,9 +33,9 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://open.stealth.si:80/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.moeblog.cn:443/announce
-udp://wepzone.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://p4p.arenabg.com:1337/announce
+udp://wepzone.net:6969/announce
 https://tracker.jdx3.org:443/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.skillindia.site:6969/announce
@@ -56,3 +56,4 @@ https://tracker.aburaya.live:443/announce
 http://shubt.net:2710/announce
 https://tracker.zhuqiy.top:443/announce
 udp://t.overflow.biz:6969/announce
+http://open.trackerlist.xyz:80/announce
