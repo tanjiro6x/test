@@ -14,7 +14,6 @@ udp://martin-gebhardt.eu:25/announce
 http://tracker.beeimg.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 http://tracker.renfei.net:8080/announce
-http://ns3109441.mypdns.org:6969/announce
 https://tracker.expli.top:443/announce
 https://tr.nyacat.pw:443/announce
 udp://tracker.ducks.party:1984/announce
@@ -30,6 +29,7 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
+http://ns3109441.mypdns.org:6969/announce
 udp://p4p.arenabg.com:1337/announce
 udp://open.stealth.si:80/announce
 udp://tracker.srv00.com:6969/announce
