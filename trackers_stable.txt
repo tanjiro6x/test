@@ -60,4 +60,3 @@ udp://tracker.valete.tf:9999/announce
 https://tracker.zhuqiy.top:443/announce
 udp://tracker.rescuecrew7.com:1337/announce
 https://tracker.leechshield.link:443/announce
-udp://tracker.ducks.party:1984/announce
