@@ -49,8 +49,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.zupix.online:1333/announce
 https://torrent.tracker.durukanbal.com:443/announce
-http://tracker.bt4g.com:2095/announce
 udp://tracker.gmi.gd:6969/announce
+http://tracker.bt4g.com:2095/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.skillindia.site:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -61,5 +61,5 @@ https://tracker.aburaya.live:443/announce
 http://0123456789nonexistent.com:80/announce
 http://torrent.hificode.in:6969/announce
 http://open.trackerlist.xyz:80/announce
-udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.tnl.one:8000/announce
 http://shubt.net:2710/announce
