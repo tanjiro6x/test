@@ -20,6 +20,7 @@ https://tracker.alaskantf.com:443/announce
 https://tracker.belmult.online:443/announce
 https://t.213891.xyz:443/announce
 udp://rekcart.duckdns.org:15480/announce
+https://cny.fan:443/announce
 udp://tracker.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.valete.tf:9999/announce
