@@ -33,8 +33,8 @@ udp://evan.im:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.zupix.online:1333/announce
-udp://torrentclub.online:54123/announce
 https://tracker.zhuqiy.com:443/announce
+udp://torrentclub.online:54123/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.dhitechnical.com:6969/announce
