@@ -20,7 +20,6 @@ https://t.213891.xyz:443/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
-https://bittracker.nekosunevr.co.uk:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.beeimg.com:6969/announce
