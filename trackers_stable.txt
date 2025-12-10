@@ -33,10 +33,10 @@ http://tracker.renfei.net:8080/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.tryhackx.org:6969/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker3.t-1.org:6969/announce
 http://ipv4.rer.lol:2710/announce
-udp://d40969.acod.regrucolo.ru:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.ghostchu-services.top:443/announce
@@ -57,8 +57,8 @@ https://tracker.zhuqiy.com:443/announce
 udp://laestrygonian.ooguy.com:9001/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
-http://tracker.bt4g.com:2095/announce
 udp://tracker1.myporn.club:9337/announce
+http://tracker.bt4g.com:2095/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://echostar.ddnsfree.com:8080/announce
