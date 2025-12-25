@@ -54,8 +54,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://open.demonoid.ch:6969/announce
-https://tracker.alaskantf.com:443/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+https://tracker.alaskantf.com:443/announce
 https://tracker.pmman.tech:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.leechshield.link:443/announce
