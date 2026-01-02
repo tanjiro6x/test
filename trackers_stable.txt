@@ -45,7 +45,6 @@ udp://tracker.opentorrent.top:6969/announce
 http://tracker.mywaifu.best:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://www.torrent.eu.org:451/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.dler.com:6969/announce
 https://tracker.pmman.tech:443/announce
@@ -61,6 +60,6 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://bandito.byterunner.io:6969/announce
 https://t.213891.xyz:443/announce
+udp://bandito.byterunner.io:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
