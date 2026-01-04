@@ -839,7 +839,6 @@ https://tracker.sakurato.art:23334/announce
 https://tracker.shittyurl.org/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
-https://tracker.soshifanclub.com:443/announce
 https://tracker.srv00.com/announce
 https://tracker.srv00.com:443/announce
 https://tracker.tamersunion.org/announce
@@ -951,7 +950,6 @@ udp://acxx.de:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
-udp://anna.bt.bontal.net:6969/announce
 udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
