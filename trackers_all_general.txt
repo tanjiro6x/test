@@ -9,7 +9,6 @@ http://bt.rer.lol:2710/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
-http://echostar.ddnsfree.com:8080/announce
 http://extracker.dahrkael.net:6969/announce
 http://home.yxgz.club:6969/announce
 http://ipv4.rer.lol:2710/announce
@@ -125,6 +124,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uraniumhexafluori.de:443/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker2.dler.org:80/announce
