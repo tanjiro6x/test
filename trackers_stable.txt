@@ -13,7 +13,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 http://trackr.appolon.dev:6969/announce
 udp://tracker.orsvarn.com:6969/announce
-udp://opentracker.xyz:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker.t-1.org:6969/announce
