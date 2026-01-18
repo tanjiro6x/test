@@ -50,8 +50,8 @@ udp://open.demonoid.ch:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://open.demonii.com:1337/announce
 udp://tr4ck3r.duckdns.org:6969/announce
-http://trackr.appolon.dev:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
+http://trackr.appolon.dev:6969/announce
 http://bvarf.tracker.sh:2086/announce
 https://cny.fan:443/announce
 udp://www.torrent.eu.org:451/announce
