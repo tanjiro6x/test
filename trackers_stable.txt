@@ -31,11 +31,11 @@ udp://tracker.t-1.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://martin-gebhardt.eu:25/announce
-https://tracker.moeking.me:443/announce
+https://tracker.pmman.tech:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.1h.is:1337/announce
-https://tracker.pmman.tech:443/announce
 http://tracker.dhitechnical.com:6969/announce
+https://tracker.moeking.me:443/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 udp://tracker.opentorrent.top:6969/announce
 https://shahidrazi.online:443/announce
