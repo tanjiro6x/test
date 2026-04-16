@@ -55,3 +55,4 @@ udp://admin.52ywp.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.nekomi.cn:443/announce
 http://bvarf.tracker.sh:2086/announce
+https://opentracker.8880085.xyz:443/announce
