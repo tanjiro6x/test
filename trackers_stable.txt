@@ -45,6 +45,4 @@ http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.zhuqiy.com:443/announce
 http://tracker.tritan.gg:8080/announce
 https://tracker.nekomi.cn:443/announce
-https://http1.torrust-tracker-demo.com:443/announce
-udp://udp1.torrust-tracker-demo.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
