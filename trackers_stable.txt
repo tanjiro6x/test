@@ -1,5 +1,4 @@
 udp://retracker.hotplug.ru:2710/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -20,6 +19,7 @@ https://tracker.qingwapt.org:443/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://open.stealth.si:80/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://evan.im:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.t-1.org:6969/announce
