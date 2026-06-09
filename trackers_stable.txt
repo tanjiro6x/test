@@ -22,11 +22,11 @@ https://tracker.leechshield.link:443/announce
 https://tracker.manager.v6.navy:443/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://tracker.t-1.org:6969/announce
-udp://uabits.today:6990/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://tracker.aruku.ovh:8081/announce
-udp://tracker.gmi.gd:6969/announce
+udp://uabits.today:6990/announce
 https://torrents.tmtime.dev:443/announce
+udp://tracker.gmi.gd:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.flatuslifir.is:6969/announce
 https://tracker.pmman.tech:443/announce
