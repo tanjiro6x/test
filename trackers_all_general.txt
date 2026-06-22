@@ -14,7 +14,6 @@ http://retracker.spark-rostov.ru:80/announce
 http://seeders-paradise.org:80/announce
 http://share.hkg-fansub.info:80/announce.php
 http://shubt.net:2710/announce
-http://speedtest.iperson.xyz:6969/announce
 http://t.overflow.biz:6969/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
