@@ -45,5 +45,5 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
-udp://tracker.opentorrent.top:6969/announce
 https://tracker.zhuqiy.com:443/announce
+udp://tracker.opentorrent.top:6969/announce
