@@ -42,3 +42,4 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.wildkat.net:6969/announce
 https://orgtgju.org:443/announce
+https://tracker.foreverpirates.co:443/announce
