@@ -35,8 +35,8 @@ udp://tracker.nexusstream.eu:6969/announce
 http://bt1.archive.org:6969/announce
 udp://open.ftorrent.com:443/announce
 https://tracker.zhuqiy.com:443/announce
-http://lucke.fenesisu.moe:6969/announce
 udp://tracker.teambelgium.net:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.dler.com:6969/announce
@@ -56,4 +56,3 @@ udp://tracker.farted.net:6969/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
-udp://archive.torrentonline.cc:42069/announce
