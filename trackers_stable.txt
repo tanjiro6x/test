@@ -42,8 +42,8 @@ http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.ilibr.org:6969/announce
-udp://mail.segso.net:6969/announce
 udp://tracker.peerfect.org:6969/announce
+udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.k.vu:6969/announce
