@@ -2,6 +2,7 @@ udp://open.stealth.si:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://tracker.qu.ax:6969/announce
 udp://evan.im:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker.waaa.moe:6969/announce
@@ -12,7 +13,6 @@ udp://torrentclub.online:1984/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -39,7 +39,6 @@ https://tracker.lenition.de:443/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.k.vu:6969/announce
-udp://tracker.cynma.tv:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://t.213891.xyz:443/announce
 https://tracker.gcrenwp.top:443/announce
@@ -52,3 +51,4 @@ http://bt2.archive.org:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://obey.torrentonline.cc:42069/announce
 https://tracker.bug38.com:443/announce
+udp://tracker.cynma.tv:6969/announce
