@@ -39,8 +39,8 @@ udp://tracker.k.vu:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://tracker.cn.nyaa.net:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://tracker.farted.net:6969/announce
+https://tracker.leechshield.link:443/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.gmi.gd:6969/announce
 udp://evan.im:6969/announce
