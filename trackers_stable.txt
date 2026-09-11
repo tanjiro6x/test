@@ -47,6 +47,6 @@ http://tracker.renfei.net:8080/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-https://tracker.zhuqiy.com:443/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
+https://tracker.zhuqiy.com:443/announce
