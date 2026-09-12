@@ -27,8 +27,8 @@ udp://tracker.k.vu:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://ipv6.govt.hu:6969/announce
-udp://tracker.peerfect.org:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://tracker.peerfect.org:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.farted.net:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -39,11 +39,11 @@ udp://tracker.ilibr.org:6969/announce
 https://004430.xyz:443/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://t.overflow.biz:6969/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://mail.segso.net:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
