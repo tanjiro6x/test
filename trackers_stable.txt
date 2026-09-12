@@ -1,6 +1,5 @@
 udp://open.stealth.si:80/announce
 udp://tracker-udp.gbitt.info:80/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.qu.ax:6969/announce
@@ -8,7 +7,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
-http://tracker.waaa.moe:6969/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tracker.corpscorp.online:80/announce
 https://tracker.7471.top:443/announce
@@ -16,6 +14,7 @@ udp://tracker.nyaa.net:6969/announce
 https://tracker.onetracker.net:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.dler.com:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
@@ -29,6 +28,7 @@ udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://ipv6.govt.hu:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+http://tracker.waaa.moe:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.farted.net:6969/announce
@@ -47,7 +47,7 @@ http://tracker.renfei.net:8080/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-http://tracker.mywaifu.best:6969/announce
 udp://tracker.breizh.pm:6969/announce
+http://tracker.mywaifu.best:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.cn.nyaa.net:6969/announce
