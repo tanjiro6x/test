@@ -25,10 +25,10 @@ udp://tracker.nexusstream.eu:6969/announce
 https://tracker.foreverpirates.co:443/announce
 udp://tracker.k.vu:6969/announce
 udp://open.ftorrent.com:443/announce
-udp://tracker.aruku.ovh:8081/announce
 udp://ipv6.govt.hu:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://tracker.waaa.moe:6969/announce
+udp://tracker.aruku.ovh:8081/announce
 https://t.213891.xyz:443/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.farted.net:6969/announce
