@@ -35,9 +35,9 @@ udp://tracker.ilibr.org:6969/announce
 http://bt1.archive.org:6969/announce
 udp://tracker.farted.net:6969/announce
 http://tracker.renfei.net:8080/announce
-udp://tracker.govt.hu:6969/announce
 udp://mail.segso.net:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://tracker.govt.hu:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -48,7 +48,7 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 https://004430.xyz:443/announce
-udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
 http://tracker.mywaifu.best:6969/announce
+udp://tracker.nexusstream.eu:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
