@@ -821,6 +821,7 @@ https://tracker.pmman.tech:443/announce
 https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 https://tracker.publictorrent.net:443/announce
+https://tracker.qingwapt.org:443/announce
 https://tracker.renfei.net/announce
 https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
@@ -1092,7 +1093,6 @@ udp://tracker.istole.it:80/announce
 udp://tracker.k.vu:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce

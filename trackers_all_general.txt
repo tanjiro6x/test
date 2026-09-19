@@ -32,6 +32,7 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.nekomi.cn:443/announce
 https://tracker.onetracker.net:443/announce
 https://tracker.pmman.tech:443/announce
+https://tracker.qingwapt.org:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
@@ -71,7 +72,6 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.govt.hu:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.k.vu:6969/announce
-udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.opentrackr.com:6969/announce
