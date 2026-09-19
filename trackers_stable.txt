@@ -19,15 +19,15 @@ https://1.tracker.eu.org:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://bt2.archive.org:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
-https://tracker.foreverpirates.co:443/announce
 udp://tracker.k.vu:6969/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://open.demonii.com:1337/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
+https://tracker.foreverpirates.co:443/announce
 udp://ipv6.govt.hu:6969/announce
+udp://open.demonii.com:1337/announce
 http://tracker.waaa.moe:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
