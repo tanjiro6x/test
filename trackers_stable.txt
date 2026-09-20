@@ -27,9 +27,9 @@ udp://open.ftorrent.com:443/announce
 https://tracker.foreverpirates.co:443/announce
 udp://ipv6.govt.hu:6969/announce
 udp://open.demonii.com:1337/announce
-http://tracker.waaa.moe:6969/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://tracker.peerfect.org:6969/announce
+http://tracker.waaa.moe:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
 http://bt1.archive.org:6969/announce
