@@ -15,6 +15,7 @@ udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 https://1.tracker.eu.org:443/announce
+udp://opentracker.lain.moscow:6969/announce
 udp://open.stealth.si:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://martin-gebhardt.eu:25/announce
