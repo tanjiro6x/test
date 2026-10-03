@@ -67,11 +67,9 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
-udp://tracker.farted.net:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
-udp://tracker.k.vu:6969/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.opentorrent.top:6969/announce
