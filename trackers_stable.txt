@@ -23,7 +23,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://martin-gebhardt.eu:25/announce
 http://tracker.renfei.net:8080/announce
 http://bt2.archive.org:6969/announce
-udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.foreverpirates.co:443/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -44,6 +43,7 @@ http://echostar.ddnsfree.com:8080/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://v2.iperson.xyz:6969/announce
+udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.nekomi.cn:443/announce
 udp://v6.vito-tracker.space:6969/announce
 http://tracker.mywaifu.best:6969/announce
