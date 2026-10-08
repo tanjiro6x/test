@@ -30,8 +30,8 @@ https://tracker.pmman.tech:443/announce
 udp://tracker.wildkat.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
-udp://tracker.nyaa.net:6969/announce
 udp://t.overflow.biz:6969/announce
+udp://tracker.nyaa.net:6969/announce
 http://bt1.archive.org:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 http://tracker.waaa.moe:6969/announce
