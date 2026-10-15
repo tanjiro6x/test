@@ -42,7 +42,6 @@ http://tracker.waaa.moe:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://tr.btube3.com:2010/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 http://echostar.ddnsfree.com:8080/announce
