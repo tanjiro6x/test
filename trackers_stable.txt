@@ -10,11 +10,11 @@ udp://mail.segso.net:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
-https://tracker.foreverpirates.co:443/announce
 https://1.tracker.eu.org:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://martin-gebhardt.eu:25/announce
 https://t.213891.xyz:443/announce
+https://tracker.foreverpirates.co:443/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://opentracker.lain.moscow:6969/announce
 http://tracker.internetwarriors.net:1337/announce
