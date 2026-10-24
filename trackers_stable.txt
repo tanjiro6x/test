@@ -47,3 +47,4 @@ udp://tracker.nyaa.net:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.okade.pro:1337/announce
+udp://ns575949.ip-51-222-82.net:6969/announce
