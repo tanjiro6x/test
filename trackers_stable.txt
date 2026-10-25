@@ -3,6 +3,7 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://evan.im:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 http://tracker.renfei.net:8080/announce
+udp://ns575949.ip-51-222-82.net:6969/announce
 https://tracker.7471.top:443/announce
 udp://tracker.wildkat.net:6969/announce
 udp://mail.segso.net:6969/announce
@@ -29,7 +30,6 @@ udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 https://t.213891.xyz:443/announce
-udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 https://tracker.qingwapt.org:443/announce
 udp://tracker.ducks.party:1984/announce
