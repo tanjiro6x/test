@@ -25,13 +25,13 @@ udp://tracker.nyaa.vc:6969/announce
 https://tracker.foreverpirates.co:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://bt1.archive.org:6969/announce
-http://bt2.archive.org:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 https://t.213891.xyz:443/announce
 udp://tracker.corpscorp.online:80/announce
 https://tracker.qingwapt.org:443/announce
+http://bt2.archive.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.qu.ax:6969/announce
