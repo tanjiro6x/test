@@ -35,8 +35,8 @@ udp://tracker.ducks.party:1984/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.torrents.observer:80/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.nekomi.cn:443/announce
 https://004430.xyz:443/announce
 https://tracker.pmman.tech:443/announce
