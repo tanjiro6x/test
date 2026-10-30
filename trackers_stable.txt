@@ -19,6 +19,7 @@ udp://bt-tracker.de:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.dhitechnical.com:6969/announce
+https://tracker.nekomi.cn:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://bt1.archive.org:6969/announce
@@ -36,7 +37,6 @@ http://tracker.mywaifu.best:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.torrents.observer:80/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-https://tracker.nekomi.cn:443/announce
 udp://tracker.ducks.party:1984/announce
 https://tracker.pmman.tech:443/announce
 udp://open.ftorrent.com:443/announce
