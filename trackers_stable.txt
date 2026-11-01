@@ -18,11 +18,10 @@ https://tracker.nekomi.cn:443/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://bt1.archive.org:6969/announce
-udp://tracker.opentrackr.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://mail.segso.net:6969/announce
-udp://tracker.peerfect.org:6969/announce
+udp://tracker.opentrackr.com:6969/announce
 https://tracker.foreverpirates.co:443/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
@@ -36,9 +35,10 @@ udp://tracker.qu.ax:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://tracker.torrents.observer:80/announce
 udp://opentracker.lain.moscow:6969/announce
+udp://tracker.peerfect.org:6969/announce
 udp://tracker.ducks.party:1984/announce
-udp://tracker.ilibr.org:6969/announce
 udp://open.ftorrent.com:443/announce
+udp://tracker.ilibr.org:6969/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.waaa.moe:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -48,4 +48,5 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://v2.iperson.xyz:6969/announce
 udp://tracker.okade.pro:1337/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://tr.btube3.com:2010/announce
