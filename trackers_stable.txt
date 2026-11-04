@@ -45,7 +45,5 @@ http://echostar.ddnsfree.com:8080/announce
 udp://v2.iperson.xyz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
-udp://tracker.opentrackr.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
-udp://seedpeer.net:6969/announce
-udp://tracker.ilibr.org:6969/announce
+udp://tracker.opentrackr.com:6969/announce
