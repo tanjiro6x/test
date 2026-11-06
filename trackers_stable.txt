@@ -35,8 +35,8 @@ https://tracker.qingwapt.org:443/announce
 http://bt2.archive.org:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://t.overflow.biz:6969/announce
-udp://open.ftorrent.com:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
+udp://open.ftorrent.com:443/announce
 https://tracker.pmman.tech:443/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 http://tracker.internetwarriors.net:1337/announce
@@ -45,6 +45,7 @@ udp://opentracker.lain.moscow:6969/announce
 udp://v2.iperson.xyz:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.willy.pro:6969/announce
 udp://opentracker2.lain.moscow:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 http://ipv4announce.sktorrent.eu:6969/announce
