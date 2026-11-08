@@ -35,8 +35,8 @@ udp://open.demonii.com:1337/announce
 https://tracker.qingwapt.org:443/announce
 http://bt2.archive.org:6969/announce
 udp://tracker.dler.com:6969/announce
-http://taciturn-shadow.spb.ru:6969/announce
 udp://t.overflow.biz:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.sela.st:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
