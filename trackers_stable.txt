@@ -43,7 +43,7 @@ udp://kolankoalastree.newtrackon.co.nz:1337/announce
 udp://tracker.sela.st:6969/announce
 udp://open.ftorrent.com:443/announce
 http://tracker.internetwarriors.net:1337/announce
-udp://v2.iperson.xyz:6969/announce
 http://echostar.ddnsfree.com:8080/announce
+udp://v2.iperson.xyz:6969/announce
 udp://opentracker.lain.moscow:6969/announce
 udp://tracker.opentrackr.org:1337/announce
