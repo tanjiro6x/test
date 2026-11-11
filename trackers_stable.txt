@@ -21,6 +21,7 @@ udp://tracker.willy.pro:6969/announce
 udp://bt-tracker.de:6969/announce
 udp://tracker.okade.pro:1337/announce
 https://tracker.yume-hatsuyuki.moe:443/announce
+udp://tracker.transfur.org:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.corpscorp.online:80/announce
@@ -47,3 +48,4 @@ http://echostar.ddnsfree.com:8080/announce
 udp://v2.iperson.xyz:6969/announce
 udp://opentracker.lain.moscow:6969/announce
 udp://tracker.opentrackr.org:1337/announce
+udp://retracker.hotplug.ru:2710/announce
