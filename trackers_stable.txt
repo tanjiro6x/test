@@ -38,14 +38,13 @@ udp://open.demonii.com:1337/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
-udp://t.overflow.biz:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 udp://tracker.sela.st:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://t.overflow.biz:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://v2.iperson.xyz:6969/announce
 udp://tracker.opentrackr.org:1337/announce
-udp://opentracker.lain.moscow:6969/announce
