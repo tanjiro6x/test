@@ -2,7 +2,6 @@ http://004430.xyz:80/announce
 http://1337.abcvg.info:80/announce
 http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
-http://echostar.ddnsfree.com:8080/announce
 http://open.tracker.cl:1337/announce
 http://t.overflow.biz:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
