@@ -48,5 +48,6 @@ udp://v2.iperson.xyz:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
-http://echostar.ddnsfree.com:8080/announce
 udp://tracker.ilibr.org:6969/announce
+http://echostar.ddnsfree.com:8080/announce
+udp://tracker.peerfect.org:6969/announce
