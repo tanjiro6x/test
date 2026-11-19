@@ -1,5 +1,4 @@
 udp://open.stealth.si:80/announce
-udp://retracker.hotplug.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.qu.ax:6969/announce
@@ -20,17 +19,18 @@ https://tracker.yume-hatsuyuki.moe:443/announce
 udp://tracker.transfur.org:6969/announce
 udp://discover.curiousfacts.blog:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
+https://tracker.pmman.tech:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.corpscorp.online:80/announce
 http://bt2.archive.org:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.ducks.party:1984/announce
+udp://retracker.hotplug.ru:2710/announce
 https://tracker.nekomi.cn:443/announce
 https://004430.xyz:443/announce
 http://bt1.archive.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -48,4 +48,5 @@ https://t.213891.xyz:443/announce
 udp://v2.iperson.xyz:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 udp://tracker.opentrackr.org:1337/announce
+udp://tracker.alt.cx:6969/announce
 http://tracker.beeimg.com:6969/announce

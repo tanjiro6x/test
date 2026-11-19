@@ -1069,6 +1069,7 @@ udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.23794.top:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
+udp://tracker.alt.cx:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://tracker.auctor.tv:6969/announce
