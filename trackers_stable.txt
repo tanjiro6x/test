@@ -45,8 +45,8 @@ udp://tracker-udp.gbitt.info:80/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.dler.com:6969/announce
-https://tracker.pmman.tech:443/announce
 udp://v2.iperson.xyz:6969/announce
+https://tracker.pmman.tech:443/announce
 http://tracker.internetwarriors.net:1337/announce
 udp://tracker.alt.cx:6969/announce
 udp://tracker.opentrackr.org:1337/announce
