@@ -5,6 +5,7 @@ udp://tracker.qu.ax:6969/announce
 udp://evan.im:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.renfei.net:8080/announce
@@ -23,7 +24,6 @@ udp://tracker.transfur.org:6969/announce
 udp://discover.curiousfacts.blog:6969/announce
 udp://tracker.evergarden.uk:1914/announce
 https://tracker.augrains.com:443/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.corpscorp.online:80/announce
@@ -44,9 +44,9 @@ udp://kolankoalastree.newtrackon.co.nz:1337/announce
 https://tracker.qingwapt.org:443/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
-http://taciturn-shadow.spb.ru:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.dler.com:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.alt.cx:6969/announce
